@@ -10,43 +10,43 @@
 
 @font-face {
     font-family: 'Bitter';
-    src: url("../fonts/Bitter-Regular.otf");
+    src: url("@{path-fonts}/Bitter-Regular.otf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Gobold';
-    src: url("../fonts/Gobold Bold_3.ttf");
+    src: url("@{path-fonts}/Gobold Bold_3.ttf");
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Gobold';
-    src: url("../fonts/Gobold_3.ttf");
+    src: url("@{path-fonts}/Gobold_3.ttf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Gobold';
-    src: url("../fonts/Gobold Light_3.ttf");
+    src: url("@{path-fonts}/Gobold Light_3.ttf");
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'Gobold';
-    src: url("../fonts/Gobold Thin_3.ttf");
+    src: url("@{path-fonts}/Gobold Thin_3.ttf");
     font-weight: 100;
 }
 
 @font-face {
     font-family: 'Gobold';
-    src: url("../fonts/GrandHotel-Regular.ttf");
+    src: url("@{path-fonts}/GrandHotel-Regular.ttf");
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'Tabitha';
-    src: url("../fonts/tabitha.ttf");
+    src: url("@{path-fonts}/tabitha.ttf");
     font-weight: normal;
 }
 
@@ -96,7 +96,7 @@ a:hover { text-decoration: none; }
 
 .head-set {
     background: @yellow;
-    min-height: 235px;
+     padding: 15px 0px;
 
     .head-left {
         padding-top: 10px;
@@ -185,6 +185,7 @@ a:hover { text-decoration: none; }
     p {
         font-family: tabitha;
         color: @blue-text;
+          font-size: 17px;
     }
 }
 
@@ -194,19 +195,22 @@ a:hover { text-decoration: none; }
 }
 
 .in-right {
-    background: #d7a11f;
-    border: 0;
-    border-radius: 4px;
-    outline: 0;
-    padding: 0px 0px 0px 8px;
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-transform: none;
-    /* text-indent: 0px; */
-    text-shadow: none;
-    text-align: start;
-    width: 23%;
-    margin-top: 0px;
+     background: #d7a11f;
+  border: 0;
+  border-radius: 4px;
+  outline: 0;
+  padding: 4px 0px 0px 10px;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  /* text-indent: 0px; */
+  text-shadow: none;
+  text-align: start;
+  width: 29%;
+  margin-top: 0px;
+  font-family: tabitha;
+  color: rgba(255, 255, 255, 0.52);
+
 }
 
 .btn-right {
@@ -235,7 +239,7 @@ a:hover { text-decoration: none; }
 
 .head-mid {
     background: @blue;
-    height: 105px;
+    padding: 10px;
 
     .mid-left {
         padding-top: 38px;
@@ -243,7 +247,7 @@ a:hover { text-decoration: none; }
         p {
             color: @base;
             font-family: tabitha;
-            font-size: 18px;
+              font-size: 20px;
         }
     }
 
@@ -278,30 +282,31 @@ a:hover { text-decoration: none; }
 
 .head-end {
     background: @green;
-    height: 350px;
+     padding: 80px 0px 20px;
 
     .rw-head {
         text-align: center;
-        padding-top: 90px;
+//        padding-top: 90px;
     }
 
     .cl1 p {
         font-family: tabitha;
         font-size: 17px;
+          padding-top: 12px;
     }
 }
 
 .afterlocal img {
-    float: right;
-    position: relative;
-    bottom: 44px;
-    z-index: 999;
-    left: 56px;
+     float: right;
+  position: relative;
+  bottom: 44px;
+  z-index: 999;
+  left: 60px;
 }
 
 .back-set {
     background: #67686a;
-    height: 70px;
+    height: 100px;
     font-family: @bitter;
     text-transform: uppercase;
     font-size: 18px;
@@ -309,23 +314,48 @@ a:hover { text-decoration: none; }
     position: relative;
 }
 
-.livefeedhead p {
-    color: #fff;
-    z-index: 9999;
-    position: relative;
-    font-family: @bitter;
-    text-transform: uppercase;
-    font-size: 20px;
-    top: 20px;
-    right: 0px;
-    margin: 0px;
+.livefeedhead {
+    p {
+    color: @base;
+  z-index: 9999;
+  position: relative;
+  font-family: 'Bitter';
+  text-transform: uppercase;
+  font-size: 25px;
+  top: 30px;
+  right: 0px;
+  margin: 0px;
+}
+    @media @mobile{
+        p
+        {
+              font-size: 20px;
+        }
+    }
+}
+.livefeedheads
+{p {
+    color: @base;
+  z-index: 9999;
+  position: relative;
+  font-family: 'Bitter';
+  text-transform: uppercase;
+  font-size: 25px;
+  top: 42px;
+  right: 0px;
+  margin: 0px;
+}
 }
 
 .rw {
-    margin-right: 0px;
     position: relative;
-    bottom: 30px;
-    color: #fff;
+  bottom: 35px;
+  color: @base;
+}
+.rws {
+    position: relative;
+  bottom: 27px;
+  color: @base;
 }
 
 .fb {
@@ -380,7 +410,8 @@ a:hover { text-decoration: none; }
 
 .cal-cont {
     background: @green;
-    height: 450px;
+     min-height: 450px;
+
     position: relative;
     bottom: 101px;
 
@@ -416,11 +447,13 @@ a:hover { text-decoration: none; }
 }
 
 .sco-set {
-    display: -webkit-inline-box;
-    list-style: none;
-    float: right;
-    margin: 0px 25px !important;
-
+   display: -webkit-inline-box;
+  list-style: none;
+  float: right;
+  /* margin: 0px 1px !important; */
+  text-align: center !important;
+  width: 100%;
+  padding-left: 27px !important;
     i {
         background: @blue;
         font-size: 18px;
@@ -464,7 +497,7 @@ a:hover { text-decoration: none; }
         text-transform: capitalize;
     }
 
-    .h4 {
+    h4 {
         font-family: tabitha;
         font-size: 24px;
         line-height: 0;
@@ -475,6 +508,7 @@ a:hover { text-decoration: none; }
         //    border-radius: 100%;
         //    height: 165px;
         //    width: 165px;
+        margin:0 auto;
     }
 }
 
@@ -507,3 +541,41 @@ a:hover { text-decoration: none; }
         padding: 5px 8px;
     }
 }
+.im-man{
+  position: absolute;
+  top: 46px;
+  right: 54px;
+}
+::-webkit-input-placeholder {
+   color: rgba(255, 255, 255, 0.52);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: rgba(255, 255, 255, 0.52);  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color:rgba(255, 255, 255, 0.52);  
+}
+
+:-ms-input-placeholder {  
+   color: rgba(255, 255, 255, 0.52);  
+}
+.cl1 {
+    img {
+  margin: 0 auto;
+}
+}
+.bor{
+  border-bottom: 3px solid #8cd7cc;
+  padding-bottom: 14px;
+    padding-top:25px; 
+}
+
+
+@media @mobile
+    {
+        .imgs-right {
+  text-align: center;
+}
+    }

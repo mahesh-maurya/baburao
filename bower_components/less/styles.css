@@ -12,23 +12,8 @@
 }
 @font-face {
   font-family: 'Bitter';
-  src: url("../fonts/Bitter-BoldItalic.otf");
-  font-weight: 600;
-}
-@font-face {
-  font-family: 'Bitter';
-  src: url("../fonts/Bitter-Italic.otf");
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'Bitter';
   src: url("../fonts/Bitter-Regular.otf");
   font-weight: normal;
-}
-@font-face {
-  font-family: 'Gobold';
-  src: url("../fonts/Gobold Bold Italic_3.ttf");
-  font-weight: 400;
 }
 @font-face {
   font-family: 'Gobold';
@@ -37,33 +22,18 @@
 }
 @font-face {
   font-family: 'Gobold';
-  src: url("../fonts/Gobold Italic_3.ttf");
+  src: url("../fonts/Gobold_3.ttf");
   font-weight: normal;
 }
 @font-face {
   font-family: 'Gobold';
-  src: url("../fonts/Gobold Light Italic_3.ttf");
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'Gobold';
   src: url("../fonts/Gobold Light_3.ttf");
-  font-weight: 400;
-}
-@font-face {
-  font-family: 'Gobold';
-  src: url("../fonts/Gobold Thin Italic_3.ttf");
-  font-weight: 100;
+  font-weight: 300;
 }
 @font-face {
   font-family: 'Gobold';
   src: url("../fonts/Gobold Thin_3.ttf");
   font-weight: 100;
-}
-@font-face {
-  font-family: 'Gobold';
-  src: url("../fonts/Gobold_3.ttf");
-  font-weight: normal;
 }
 @font-face {
   font-family: 'Gobold';
@@ -76,10 +46,13 @@
   font-weight: normal;
 }
 .transitionXs {
+  -webkit-transition: all 4s ease-in;
+  -moz-transition: all 4s ease-in;
+  -o-transition: all 4s ease-in;
   transition: all 4s ease-in;
 }
 body {
-  font-family: '@gobold', '@bitter';
+  font-family: 'Gobold';
   font-weight: normal;
   font-style: normal;
   color: #ffffff;
@@ -100,7 +73,7 @@ a:hover {
 }
 .head-set {
   background: #fcc031;
-  height: 235px;
+  padding: 15px 0px;
 }
 .head-set .head-left {
   padding-top: 10px;
@@ -116,7 +89,7 @@ a:hover {
   left: 317px;
 }
 .head-set .head-left h4 {
-  font-family: bitter;
+  font-family: 'Bitter';
   font-weight: 700;
   line-height: 0.6;
   font-size: 17px;
@@ -137,7 +110,7 @@ a:hover {
   list-style: none;
 }
 .head-set .head-left ul li {
-  font-family: bitter;
+  font-family: 'Bitter';
   line-height: 2;
   color: #ffffff;
 }
@@ -151,7 +124,7 @@ a:hover {
   left: 2px;
 }
 .head-set .head-left p {
-  font-family: bitter;
+  font-family: 'Bitter';
   font-size: 10px;
   line-height: 7;
   padding: 0 0px 0px 36px;
@@ -177,6 +150,7 @@ a:hover {
 .head-set p {
   font-family: tabitha;
   color: #4d72d2;
+  font-size: 17px;
 }
 .text-right {
   text-align: right;
@@ -187,19 +161,21 @@ a:hover {
   border: 0;
   border-radius: 4px;
   outline: 0;
-  padding: 0px 0px 0px 8px;
+  padding: 4px 0px 0px 10px;
   letter-spacing: normal;
   word-spacing: normal;
   text-transform: none;
   /* text-indent: 0px; */
   text-shadow: none;
   text-align: start;
-  width: 23%;
+  width: 29%;
   margin-top: 0px;
+  font-family: tabitha;
+  color: rgba(255, 255, 255, 0.52);
 }
 .btn-right {
   background: transparent;
-  font-family: bitter;
+  font-family: 'Bitter';
   font-size: 12px;
   border: 1px solid #3b4f96;
   border-radius: 4px;
@@ -220,7 +196,7 @@ a:hover {
 }
 .head-mid {
   background: #3b4f96;
-  height: 105px;
+  padding: 10px;
 }
 .head-mid .mid-left {
   padding-top: 38px;
@@ -228,7 +204,7 @@ a:hover {
 .head-mid .mid-left p {
   color: #ffffff;
   font-family: tabitha;
-  font-size: 18px;
+  font-size: 20px;
 }
 .head-mid .mid-right {
   text-align: center;
@@ -246,56 +222,78 @@ a:hover {
   float: right;
 }
 .head-mid .mid-right ul li {
-  background: #4fc1b0;
+  background: url('../img/counter.png');
   padding: 13px;
   margin-right: 8px;
   border-radius: 4px;
   font-size: 22px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 .head-end {
   background: #4fc1b0;
-  height: 350px;
+  padding: 80px 0px 20px;
 }
 .head-end .rw-head {
   text-align: center;
-  padding-top: 90px;
 }
 .head-end .cl1 p {
   font-family: tabitha;
   font-size: 17px;
+  padding-top: 12px;
 }
 .afterlocal img {
   float: right;
   position: relative;
   bottom: 44px;
   z-index: 999;
-  left: 56px;
+  left: 60px;
 }
 .back-set {
   background: #67686a;
-  height: 70px;
-  font-family: bitter;
+  height: 100px;
+  font-family: 'Bitter';
   text-transform: uppercase;
   font-size: 18px;
   font-weight: 700;
   position: relative;
 }
 .livefeedhead p {
-  color: #fff;
+  color: #ffffff;
   z-index: 9999;
   position: relative;
-  font-family: bitter;
+  font-family: 'Bitter';
   text-transform: uppercase;
-  font-size: 20px;
-  top: 20px;
+  font-size: 25px;
+  top: 30px;
+  right: 0px;
+  margin: 0px;
+}
+@media only screen and (max-width: 468px) {
+  .livefeedhead p {
+    font-size: 20px;
+  }
+}
+.livefeedheads p {
+  color: #ffffff;
+  z-index: 9999;
+  position: relative;
+  font-family: 'Bitter';
+  text-transform: uppercase;
+  font-size: 25px;
+  top: 42px;
   right: 0px;
   margin: 0px;
 }
 .rw {
-  margin-right: 0px;
   position: relative;
-  bottom: 30px;
-  color: #fff;
+  bottom: 35px;
+  color: #ffffff;
+}
+.rws {
+  position: relative;
+  bottom: 27px;
+  color: #ffffff;
 }
 .fb {
   text-align: center;
@@ -342,12 +340,12 @@ a:hover {
 }
 .cal-cont {
   background: #4fc1b0;
-  height: 450px;
+  min-height: 450px;
   position: relative;
   bottom: 101px;
 }
 .cal-cont h3 {
-  font-family: bitter;
+  font-family: 'Bitter';
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -376,7 +374,10 @@ a:hover {
   display: -webkit-inline-box;
   list-style: none;
   float: right;
-  margin: 0px 25px !important;
+  /* margin: 0px 1px !important; */
+  text-align: center !important;
+  width: 100%;
+  padding-left: 27px !important;
 }
 .sco-set i {
   background: #3b4f96;
@@ -400,7 +401,7 @@ a:hover {
 }
 .fot-txt {
   text-align: center;
-  font-family: bitter;
+  font-family: 'Bitter';
   font-size: 16px;
   position: relative;
   bottom: 46px;
@@ -409,7 +410,7 @@ a:hover {
   line-height: 10px;
 }
 .prof-set p {
-  font-family: bitter;
+  font-family: 'Bitter';
   font-weight: normal;
   font-size: 10px;
   text-transform: capitalize;
@@ -419,6 +420,9 @@ a:hover {
   font-size: 24px;
   line-height: 0;
   color: #4d72d2;
+}
+.prof-set img {
+  margin: 0 auto;
 }
 .foo-txt {
   height: 65px;
@@ -444,4 +448,36 @@ a:hover {
   height: 30px;
   width: 30px;
   padding: 5px 8px;
+}
+.im-man {
+  position: absolute;
+  top: 46px;
+  right: 54px;
+}
+::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.52);
+}
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: rgba(255, 255, 255, 0.52);
+}
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: rgba(255, 255, 255, 0.52);
+}
+:-ms-input-placeholder {
+  color: rgba(255, 255, 255, 0.52);
+}
+.cl1 img {
+  margin: 0 auto;
+}
+.bor {
+  border-bottom: 3px solid #8cd7cc;
+  padding-bottom: 14px;
+  padding-top: 25px;
+}
+@media only screen and (max-width: 468px) {
+  .imgs-right {
+    text-align: center;
+  }
 }

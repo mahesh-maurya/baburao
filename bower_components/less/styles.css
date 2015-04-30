@@ -419,11 +419,6 @@ a:hover {
   line-height: 0;
   color: #4d72d2;
 }
-.prof-set img {
-  border-radius: 100%;
-  height: 165px;
-  width: 165px;
-}
 .foo-txt {
   height: 65px;
   font-size: 18px;

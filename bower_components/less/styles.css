@@ -361,7 +361,7 @@ a:hover {
   text-align: center;
 }
 .cal-cont ul li {
-  text-align: center;
+  text-align: left;
   line-height: 45px;
 }
 .cal-cont .list-set {

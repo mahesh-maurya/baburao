@@ -83,6 +83,15 @@ $(document).ready(function () {
     $("#circle1").click(function() {
         $(".round1").show();
     });
+    
+    
+    $(".prof-set").click(function() {
+        var proftext=$(this).children(".profname").text();
+        var profcontent=$(this).children(".bodyofprof").text();
+        $(".wht-cont .whiteboxname").text(proftext);
+        $(".wht-cont .whiteboxcontent").text(profcontent);
+    });
+    
 
 
 });

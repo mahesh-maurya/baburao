@@ -659,24 +659,20 @@
                                             <div class="whit-box">
                                                 <img class="wt-img" src="bower_components/img/close.png">
                                                 <div class="wht-cont">
-                                                    <h4>amisha arora</h4>
-                                                    <p>Lorem Ipsum is simply dummy text of </p>
-                                                    <p>the printing and typesetting industry. </p>
+                                                    <h4 class="whiteboxname">amisha arora</h4>
+                                                    <p class="whiteboxcontent"></p>
                                                     <p class="p-wht">order now</p>
                                                 </div>
 
                                             </div>
                                             <ul class="slides js_slides">
 
-                                                <?php echo "hello"; $gifts=array( array( "name"=> "amisha arora", "design" => "JAR Design", "city" => "Bangalore", "img" => "bower_components/img/amisha.png", "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry." ),array( "name" => "Amal Farooque", "design" => "JAR Design", "city" => "delhi", "img" => "bower_components/img/amal.png", "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry." ),array( "name" => "amisha arora", "design" => "JAR Design", "city" => "Bangalore", "img" => "bower_components/img/amisha.png", "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry." ),array( "name" => "amisha arora", "design" => "JAR Design", "city" => "Bangalore", "img" => "bower_components/img/amisha.png", "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry." ), ); //$pop.push($gifts['0']); print_r($gifts); ?>
+                                                
                                                 <li class="js_slide">
                                                     <div class="prof-set">
-                                                        <?php $pop=$gifts[ '0']; print_r($pop);?>
-                                                        <br>
-                                                        <?php print_r($gifts); ?>
-                                                        <h4>amisha arora</h4>
+                                                        <h4 class="profname">Amisha Arora</h4>
                                                         <p>JAR Design</p>
-
+                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                         <img src="bower_components/img/amisha.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">banglore</p>
@@ -685,9 +681,9 @@
                                                 </li>
                                                 <li class="js_slide">
                                                     <div class="prof-set">
-                                                        <h4>Amal Farooque</h4>
+                                                        <h4 class="profname">Amal Farooque</h4>
                                                         <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                         <img src="bower_components/img/amal.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">delhi</p>
@@ -695,18 +691,18 @@
                                                 </li>
                                                 <li class="js_slide">
                                                     <div class="prof-set">
-                                                        <h4>Sumira Roy</h4>
+                                                        <h4 class="profname">Sumira Roy</h4>
                                                         <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                         <img src="bower_components/img/nita.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">mumbai</p>
                                                     </div>
                                                     <li class="js_slide">
                                                         <div class="prof-set">
-                                                            <h4>Gavin Birer</h4>
+                                                            <h4 class="profname">Gavin Birer</h4>
                                                             <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">chennai</p>
@@ -714,9 +710,9 @@
                                                     </li>
                                                     <li class="js_slide">
                                                         <div class="prof-set">
-                                                            <h4>amisha arora</h4>
+                                                            <h4 class="profname">amisha arora</h4>
                                                             <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/amisha.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">banglore</p>
@@ -724,9 +720,9 @@
                                                     </li>
                                                     <li class="js_slide">
                                                         <div class="prof-set">
-                                                            <h4>Amal Farooque</h4>
+                                                            <h4 class="profname">Amal Farooque</h4>
                                                             <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/amal.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">delhi</p>
@@ -734,9 +730,9 @@
                                                     </li>
                                                     <li class="js_slide">
                                                         <div class="prof-set">
-                                                            <h4>Sumira Roy</h4>
+                                                            <h4 class="profname">Sumira Roy</h4>
                                                             <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/nita.png" class="img-responsive">
 
                                                             <p style="   line-height: 36px;">mumbai</p>
@@ -744,9 +740,9 @@
                                                     </li>
                                                     <li class="js_slide">
                                                         <div class="prof-set">
-                                                            <h4>Gavin Birer</h4>
+                                                            <h4 class="profname">Gavin Birer</h4>
                                                             <p>JAR Design</p>
-
+<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
 
                                                             <p style="   line-height: 36px;">chennai</p>
@@ -853,7 +849,7 @@
             $(document).ready(function () {
 
                 $(".prof-set").click(function () {
-                    console.log($pop);
+//                    console.log($pop);
                     $(".whit-box").show(500);
                     //        $(".round4").show();
                 });

@@ -637,7 +637,7 @@
                                 <div class="slider js_multislides multislides">
                                     <div class="frame js_frame">
                                               <div class="whit-box">
-                                                    <a href=""><img class="wt-img" src="bower_components/img/close.png"></a>
+                                                    <img class="wt-img" src="bower_components/img/close.png">
                                                     <div class="wht-cont">
                                                     <h4>amisha arora</h4>
                                                         <p>Lorem Ipsum is simply dummy text of </p>
@@ -647,14 +647,23 @@
                                               
                                                 </div>
                                         <ul class="slides js_slides">
-                                        
+                                        <?php 
+$gifts = array( array( "name" => "amisha arora",
+                        "design" => "JAR Design",
+                        "city" => "Bangalore",
+                        "img" => "Bangalore",
+                        "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                     ),
+                  ); 
+echo json_encode($gifts); 
+?>
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4>amisha arora</h4>
                                                     <p>JAR Design</p>
-                                                    <a href="">
+                                                  
                                                         <img src="bower_components/img/amisha.png" class="img-responsive">
-                                                    </a>
+                                                
                                                     <p style="    line-height: 36px;">banglore</p>
                                                 </div>
                                             
@@ -663,9 +672,9 @@
                                                 <div class="prof-set">
                                                     <h4>Amal Farooque</h4>
                                                     <p>JAR Design</p>
-                                                    <a href="">
+                                                  
                                                         <img src="bower_components/img/amal.png" class="img-responsive">
-                                                    </a>
+                                                
                                                     <p style="    line-height: 36px;">delhi</p>
                                                 </div>
                                             </li>
@@ -673,18 +682,18 @@
                                                 <div class="prof-set">
                                                     <h4>Sumira Roy</h4>
                                                     <p>JAR Design</p>
-                                                    <a href="">
+                                                   
                                                         <img src="bower_components/img/nita.png" class="img-responsive">
-                                                    </a>
+                                                  
                                                     <p style="    line-height: 36px;">mumbai</p>
                                                 </div>
                                                 <li class="js_slide">
                                                     <div class="prof-set">
                                                         <h4>Gavin Birer</h4>
                                                         <p>JAR Design</p>
-                                                        <a href="">
+                                                       
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
-                                                        </a>
+                                                        
                                                         <p style="    line-height: 36px;">chennai</p>
                                                     </div>
                                                 </li>
@@ -692,9 +701,9 @@
                                                     <div class="prof-set">
                                                         <h4>amisha arora</h4>
                                                         <p>JAR Design</p>
-                                                        <a href="">
+                                                      
                                                             <img src="bower_components/img/amisha.png" class="img-responsive">
-                                                        </a>
+                                                    
                                                         <p style="    line-height: 36px;">banglore</p>
                                                     </div>
                                                 </li>
@@ -702,9 +711,9 @@
                                                     <div class="prof-set">
                                                         <h4>Amal Farooque</h4>
                                                         <p>JAR Design</p>
-                                                        <a href="">
+                                                        
                                                             <img src="bower_components/img/amal.png" class="img-responsive">
-                                                        </a>
+                                                        
                                                         <p style="    line-height: 36px;">delhi</p>
                                                     </div>
                                                 </li>
@@ -712,9 +721,9 @@
                                                     <div class="prof-set">
                                                         <h4>Sumira Roy</h4>
                                                         <p>JAR Design</p>
-                                                        <a href="">
+                                                      
                                                             <img src="bower_components/img/nita.png" class="img-responsive">
-                                                        </a>
+                                                      
                                                         <p style="   line-height: 36px;">mumbai</p>
                                                     </div>
                                                 </li>
@@ -722,9 +731,9 @@
                                                     <div class="prof-set">
                                                         <h4>Gavin Birer</h4>
                                                         <p>JAR Design</p>
-                                                        <a href="">
+                                                       
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
-                                                        </a>
+                                                    
                                                         <p style="   line-height: 36px;">chennai</p>
                                                     </div>
                                                 </li>
@@ -828,7 +837,19 @@
     <script>
         $(document).ready(function() {
             
-//               $(".whit-box").hide();
+               $(".prof-set").click(function() {
+        $(".whit-box").show(500);
+//        $(".round4").show();
+    });
+           
+                           $(".wt-img").click(function() {
+        $(".whit-box").hide(500);
+//        $(".round4").show();
+    });
+               
+            
+            
+               $(".whit-box").hide();
             $('a[href^="#"]').on('click', function(e) {
                 e.preventDefault();
 

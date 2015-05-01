@@ -70,6 +70,7 @@ a .active {
 }
 a:hover {
   text-decoration: none;
+  color: none;
 }
 .head-set {
   background: #fcc031;
@@ -409,6 +410,9 @@ a:hover {
 .fot-txt p {
   line-height: 10px;
 }
+.prof-set {
+  cursor: pointer;
+}
 .prof-set p {
   font-family: 'Bitter';
   font-weight: normal;
@@ -490,6 +494,7 @@ a:hover {
 }
 .wt-img {
   float: right;
+  cursor: pointer;
 }
 .wht-cont {
   padding: 10px 0px 20px 15px;

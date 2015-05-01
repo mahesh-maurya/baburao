@@ -39,7 +39,15 @@
 </head>
 
 <body>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=1589474464632854";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+   
     <div class="section head">
         <div class="head-set">
             <div class="container">
@@ -182,23 +190,32 @@
             <div class="col-md-8 back-set"></div>
         </div>
         <div class="container">
-            <div class="row">
+            <div class="row scocial-set">
                 <div class="col-md-4">
                     <div class="fb">
                         <i class="fa fa-facebook"></i>
+                        <div class="fb-st">
+                       <div class="fb-page" data-href="https://www.facebook.com/localbanya" data-width="100%" data-height="360" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/localbanya"><a href="https://www.facebook.com/localbanya">Local Banya</a></blockquote></div></div>
+                    </div>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="twit">
+                   
+                     <div class="twit">
                         <i class="fa fa-twitter"></i>
+                       <div class="tw-st">
+<a class="twitter-timeline" href="https://twitter.com/LocalBanya" data-widget-id="594025626274648064">Tweets by @LocalBanya</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                    </div>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="insta">
 
                         <i class="fa fa-instagram"></i>
-                        
-                        <iframe src="http://www.intagme.com/in/?u=bG9jYWxiYW55YWRvdGNvbXxpbnwxMDB8M3wzfHxub3w1fHVuZGVmaW5lZHxubw==" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:315px; height: 315px" ></iframe>
+                        <div class="in-st">
+                      <iframe src="//instansive.com/widgets/006874267dbc8cea6039a4add44013928bff372a.html" id="instansive_006874267d" name="instansive_006874267d"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+                      
                     </div>
                 </div>
             </div>
@@ -619,7 +636,18 @@
 
                                 <div class="slider js_multislides multislides">
                                     <div class="frame js_frame">
+                                              <div class="whit-box">
+                                                    <a href=""><img class="wt-img" src="bower_components/img/close.png"></a>
+                                                    <div class="wht-cont">
+                                                    <h4>amisha arora</h4>
+                                                        <p>Lorem Ipsum is simply dummy text of </p>
+                                                    <p>the printing and typesetting industry. </p>
+                                                     <p class="p-wht">order now</p>
+                                              </div>
+                                              
+                                                </div>
                                         <ul class="slides js_slides">
+                                        
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4>amisha arora</h4>
@@ -629,15 +657,7 @@
                                                     </a>
                                                     <p style="  line-height: 20px;">banglore</p>
                                                 </div>
-                                                <div class="whit-box">
-                                                    <a href=""><img class="wt-img" src="bower_components/img/close.png"></a>
-                                                    <div class="wht-cont">
-                                                    <h4>amisha arora</h4>
-                                                        <p>Lorem Ipsum is simply dummy text of </p>
-                                                    <p>the printing and typesetting industry. </p>
-                                              </div>
-                                               <p class="p-wht">order now</p>
-                                                </div>
+                                            
                                             </li>
                                             <li class="js_slide">
                                                 <div class="prof-set">
@@ -774,6 +794,8 @@
     <script src="bower_components/jquery/classie.js"></script>
     <!--    <script src="bower_components/jquery/main4.js"></script>-->
     <script src="bower_components/jquery/jquery.mCustomScrollbar.js"></script>
+    
+    <script src="//instansive.com/widget/js/instansive.js"></script>
 
 
 

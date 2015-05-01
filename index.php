@@ -651,7 +651,7 @@
 $gifts = array( array( "name" => "amisha arora",
                         "design" => "JAR Design",
                         "city" => "Bangalore",
-                        "img" => "Bangalore",
+                        "img" => "bower_components/img/amisha.png",
                         "text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
                      ),
                   ); 

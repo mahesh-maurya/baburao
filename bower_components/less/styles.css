@@ -476,8 +476,43 @@ a:hover {
   padding-bottom: 14px;
   padding-top: 25px;
 }
-@media only screen and (max-width: 468px) {
-  .imgs-right {
-    text-align: center;
-  }
+.whit-box {
+  background: #fff;
+  width: 410px;
+  padding: 20px;
+  position: relative;
+  z-index: 99;
+  bottom: 81px;
+  height: 230px;
+  left: 12px;
+}
+.whit-box .wt-img {
+  float: right;
+}
+.whit-box .wht-cont {
+  padding: 10px 0px 20px 15px;
+  text-align: left;
+}
+.whit-box .wht-cont h4 {
+  color: #4d72d2;
+  font-family: tabitha;
+  font-size: 27px;
+}
+.whit-box .wht-cont p {
+  color: #67686a;
+  padding-right: 13px;
+  font-family: bitter;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 7px;
+  text-align: justify;
+  -webkit-font-smoothing: antialiased;
+}
+.whit-box .p-wht {
+  color: #67686a;
+  padding-right: 13px;
+  font-family: bitter;
+  position: relative;
+  top: 36px;
+  text-align: right;
 }

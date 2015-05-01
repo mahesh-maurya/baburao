@@ -147,7 +147,16 @@ code {
 .prev svg {
     width: 25px;
 }
-
+@media screen and (min-width:1030px){
+.li-soc i {
+  font-size: 14px;
+  background: #4d72d2;
+  border-radius: 5px;
+  height: 25px;
+  width: 25px;
+  padding: 5px 8px;
+}
+}
 @media screen and (min-width: 640px) {
     /**
      * Demo Page Styles
@@ -200,7 +209,7 @@ code {
      */
     
     .slider {
-        width: 980px;
+         width: 936px;
         margin: 0 auto 20px;
     }
     .frame {

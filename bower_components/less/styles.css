@@ -238,6 +238,9 @@ a:hover {
 .head-end .rw-head {
   text-align: center;
 }
+.head-end .cl1 {
+  cursor: pointer;
+}
 .head-end .cl1 p {
   font-family: tabitha;
   font-size: 17px;
@@ -549,4 +552,33 @@ a:hover {
   text-align: justify;
   height: 354px !important;
   overflow: hidden;
+}
+.cl2 {
+  -webkit-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -o-filter: blur(4px);
+  filter: blur(4px);
+  cursor: pointer;
+}
+.roll {
+  font-family: tabitha;
+  font-size: 20px;
+  position: absolute;
+  z-index: 999;
+  text-align: center;
+  right: 0;
+  left: 0px;
+  top: 49px;
+  bottom: 0;
+  opacity: 0;
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+}
+.cl3:hover .roll {
+  opacity: 1;
+}
+.cl3 {
+  cursor: pointer;
 }

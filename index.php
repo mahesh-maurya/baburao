@@ -139,33 +139,47 @@
                     <div class="rw-head">
                         <div class="col-md-3 col-xs-6">
                             <div class="cl1">
-                                <a href="">
+                               
                                     <img src="bower_components/img/buy.png" class="img-responsive">
-                                </a>
+
                                 <p>9th May - 14th May</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-xs-6">
-                            <div class="cl1">
-                                <a href="">
+                        <div class="col-md-3 col-xs-6 cl3">
+                          <div class="roll">
+                           <p>visit me again</p>
+                           <img src="bower_components/img/roll.png">
+                           </div>
+                            <div class="cl1 cl2">
+
                                     <img src="bower_components/img/coupan.png" class="img-responsive">
-                                </a>
+                               
                                 <p>15th May - 21th May</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-xs-6">
-                            <div class="cl1">
-                                <a href="">
+                        <div class="col-md-3 col-xs-6 cl3">
+                           <div class="roll">
+                           <p>visit me again</p>
+                           <img src="bower_components/img/roll.png">
+                           </div>
+                            <div class="cl1 cl2">
+                                
                                     <img src="bower_components/img/discount.png" class="img-responsive">
-                                </a>
+                               
                                 <p>22th May - 28th May</p>
                             </div>
                         </div>
-                        <div class="col-md-3 col-xs-6">
-                            <div class="cl1">
-                                <a href="">
+                        <div class="col-md-3 col-xs-6 cl3">
+                           <div class="roll">
+                           <p>visit me again</p>
+                           <img src="bower_components/img/roll.png">
+                           </div>
+                            <div class="cl1 cl2">
+                               
+                             
+                                   
                                     <img src="bower_components/img/shop.png" class="img-responsive">
-                                </a>
+                               
                                 <p>29th May - 8th June</p>
                             </div>
                         </div>
@@ -352,27 +366,27 @@
                                         </li>
                                         <li>
                                             <ul class="sco-set">
-                                                <li style="display:none">
+                                                <li style="opacity:0">
                                                     <a href=""><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
                                                     <a href=""> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li style="display:none"> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="sco-set">
-                                                <li style="display:none">
+                                                <li style="opacity:0">
                                                     <a href=""><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
                                                     <a href=""> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li style="display:none"> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -403,14 +417,14 @@
                                         </li>
                                         <li>
                                             <ul class="sco-set">
-                                                <li style="display:none">
+                                                <li style="opacity:0">
                                                     <a href=""><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
                                                     <a href=""> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li style="display:none"> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -518,10 +532,10 @@
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
-                                        <li style="display:none">
+                                        <li style="">
                                             <a href=""><i class="fa fa-facebook"></i></a>
                                         </li>
-                                        <li style="display:none">
+                                        <li style="">
                                             <a href=""> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>

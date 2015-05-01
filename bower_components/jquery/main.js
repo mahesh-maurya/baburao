@@ -13,47 +13,6 @@ $(document).ready(function () {
 
     });
 
-    $("#sum-img").click(function () {
-
-        $(".read-set").hide();
-        $(".tab_content").show(1000);
-    });
-
-
-    $(".circle1").click(function () {
-        $(".we-txt").hide(500);
-        $(".round1").show();
-    });
-     $(".circle2").click(function () {
-//          $(this).toggle();
-        $(".we-txt").hide(500);
-        $(".round2").show();
-    });
-     $(".circle3").click(function () {
-        $(".we-txt").hide(500);
-        $(".round3").show();
-    });
-     $(".circle4").click(function () {
-        $(".we-txt").hide(500);
-        $(".round4").show();
-    });
-    
-    $("#shw").click(function () {
-        $(".round1").hide();
-        $(".we-txt").show(500);
-    });
-      $("#shw2").click(function () {
-        $(".round2").hide();
-        $(".we-txt").show(500);
-    });
-     $("#shw3").click(function () {
-        $(".round3").hide();
-        $(".we-txt").show(500);
-    });
-     $("#shw4").click(function () {
-        $(".round4").hide();
-        $(".we-txt").show(500);
-    });
 
 
     $(".round1").hide();
@@ -79,12 +38,8 @@ $(document).ready(function () {
         //  At the end, we add return false so that the click on the link is not executed
         return false;
     });
-    
-    $("#circle1").click(function() {
-        $(".round1").show();
-    });
-    
-    
+
+    $(".bodyofprof").hide();
     $(".prof-set").click(function() {
         var proftext=$(this).children(".profname").text();
         var profcontent=$(this).children(".bodyofprof").text();

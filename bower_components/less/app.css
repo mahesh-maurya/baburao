@@ -69,9 +69,12 @@ code {
 
 .slider {
     position: relative;
-    width: 320px;
+    width: 100%;
     margin: 0 auto 40px;
     -khtml-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
 }
 
@@ -151,6 +154,8 @@ code {
 .li-soc i {
   font-size: 14px;
   background: #4d72d2;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
   border-radius: 5px;
   height: 25px;
   width: 25px;
@@ -246,6 +251,19 @@ code {
     .imgs-right {
         text-align: center;
     }
+.wht-cont {
+  padding: 0px 0px 20px 15px;
+  /* text-align: left; */
+  width: 100%;
+  margin: 0 auto;
+  text-align: center!important;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 135px;
+}
+    .whit-box {
+  width: 100%!important;
+    }
     .log-cl {
   position: relative;
   top: 15px !important;
@@ -329,7 +347,7 @@ code {
         bottom: 10px;
     }
     .slider {
-        width: 350px;
+        width: 100%;
     }
     span.js_next.next img,
     span.js_prev.prev img {
@@ -349,6 +367,14 @@ code {
     .livefeedheads p {
         text-align: center;
         padding-left: 0;
+    }
+    .foo-txt h6 {
+  font-size: 8px!important;
+    }
+    .whit-box {
+  width: 100%;
+  padding: 20px;
+  left: 50%;
     }
 }
 @media (max-width: 390px) {

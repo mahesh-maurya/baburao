@@ -510,11 +510,12 @@ a:hover {
 }
 .wht-cont p {
   color: #67686a;
+  white-space: normal;
   padding-right: 13px;
   font-family: bitter;
   font-weight: normal;
   font-size: 14px;
-  line-height: 7px;
+  line-height: 130%;
   text-align: justify;
   -webkit-font-smoothing: antialiased;
 }
@@ -575,10 +576,30 @@ a:hover {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
+  color: #2e2e2e;
 }
 .cl3:hover .roll {
   opacity: 1;
 }
 .cl3 {
   cursor: pointer;
+}
+.cl3:hover .cl4 {
+  -webkit-filter: none;
+}
+.cl4 {
+  -webkit-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -o-filter: blur(4px);
+  filter: blur(4px);
+  cursor: pointer;
+}
+.cl4 p {
+  font-family: tabitha;
+  font-size: 17px;
+  padding-top: 12px;
+  transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
 }

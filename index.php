@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="">
 <?php $pop=array();?>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -139,47 +140,49 @@
                     <div class="rw-head">
                         <div class="col-md-3 col-xs-6">
                             <div class="cl1">
-                               
-                                    <img src="bower_components/img/buy.png" class="img-responsive">
+
+                                <img src="bower_components/img/buy.png" class="img-responsive">
 
                                 <p>9th May - 14th May</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-xs-6 cl3">
-                          <div class="roll">
-                           <p>visit me again</p>
-                           <img src="bower_components/img/roll.png">
-                           </div>
+                            <div class="roll">
+                                <p>visit me again</p>
+                                <img src="bower_components/img/roll.png">
+                            </div>
                             <div class="cl1 cl2">
-
-                                    <img src="bower_components/img/coupan.png" class="img-responsive">
-                               
+                                <img src="bower_components/img/coupan.png" class="img-responsive">
+                            </div>
+                            <div class="cl4">
                                 <p>15th May - 21th May</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-xs-6 cl3">
-                           <div class="roll">
-                           <p>visit me again</p>
-                           <img src="bower_components/img/roll.png">
-                           </div>
+                            <div class="roll">
+                                <p>visit me again</p>
+                                <img src="bower_components/img/roll.png">
+                            </div>
                             <div class="cl1 cl2">
-                                
-                                    <img src="bower_components/img/discount.png" class="img-responsive">
-                               
+
+                                <img src="bower_components/img/discount.png" class="img-responsive">
+                            </div>
+                               <div class="cl4">
                                 <p>22th May - 28th May</p>
                             </div>
                         </div>
                         <div class="col-md-3 col-xs-6 cl3">
-                           <div class="roll">
-                           <p>visit me again</p>
-                           <img src="bower_components/img/roll.png">
-                           </div>
+                            <div class="roll">
+                                <p>visit me again</p>
+                                <img src="bower_components/img/roll.png">
+                            </div>
                             <div class="cl1 cl2">
-                               
-                             
-                                   
-                                    <img src="bower_components/img/shop.png" class="img-responsive">
-                               
+
+
+
+                                <img src="bower_components/img/shop.png" class="img-responsive">
+ </div>
+                               <div class="cl4">
                                 <p>29th May - 8th June</p>
                             </div>
                         </div>
@@ -681,7 +684,7 @@
                                             </div>
                                             <ul class="slides js_slides">
 
-                                                
+
                                                 <li class="js_slide">
                                                     <div class="prof-set">
                                                         <h4 class="profname">Amisha Arora</h4>
@@ -697,7 +700,7 @@
                                                     <div class="prof-set">
                                                         <h4 class="profname">Amal Farooque</h4>
                                                         <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                         <img src="bower_components/img/amal.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">delhi</p>
@@ -707,7 +710,7 @@
                                                     <div class="prof-set">
                                                         <h4 class="profname">Sumira Roy</h4>
                                                         <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                         <img src="bower_components/img/nita.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">mumbai</p>
@@ -716,7 +719,7 @@
                                                         <div class="prof-set">
                                                             <h4 class="profname">Gavin Birer</h4>
                                                             <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">chennai</p>
@@ -726,7 +729,7 @@
                                                         <div class="prof-set">
                                                             <h4 class="profname">amisha arora</h4>
                                                             <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/amisha.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">banglore</p>
@@ -736,7 +739,7 @@
                                                         <div class="prof-set">
                                                             <h4 class="profname">Amal Farooque</h4>
                                                             <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/amal.png" class="img-responsive">
 
                                                             <p style="    line-height: 36px;">delhi</p>
@@ -746,7 +749,7 @@
                                                         <div class="prof-set">
                                                             <h4 class="profname">Sumira Roy</h4>
                                                             <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/nita.png" class="img-responsive">
 
                                                             <p style="   line-height: 36px;">mumbai</p>
@@ -756,7 +759,7 @@
                                                         <div class="prof-set">
                                                             <h4 class="profname">Gavin Birer</h4>
                                                             <p>JAR Design</p>
-<p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                             <img src="bower_components/img/govind.png" class="img-responsive">
 
                                                             <p style="   line-height: 36px;">chennai</p>
@@ -863,7 +866,7 @@
             $(document).ready(function () {
 
                 $(".prof-set").click(function () {
-//                    console.log($pop);
+                    //                    console.log($pop);
                     $(".whit-box").show(500);
                     //        $(".round4").show();
                 });

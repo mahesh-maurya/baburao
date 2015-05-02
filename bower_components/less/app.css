@@ -72,9 +72,6 @@ code {
     width: 100%;
     margin: 0 auto 40px;
     -khtml-user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     user-select: none;
 }
 
@@ -86,7 +83,7 @@ code {
     line-height: 0;
     overflow: hidden;
     white-space: nowrap;
-    min-height: 73px;
+    min-height: 273px;
 }
 
 .frame li {
@@ -155,8 +152,6 @@ code {
 .li-soc i {
   font-size: 14px;
   background: #4d72d2;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
   border-radius: 5px;
   height: 25px;
   width: 25px;

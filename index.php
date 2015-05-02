@@ -292,7 +292,7 @@
                 <div class="cal-cont">
                     <div class="container">
                         <div class="row bor">
-                            <div class="col-xs-2">
+                            <div class="col-xs-3">
                                 <div class="cal-left">
                                     <h3>
                                date
@@ -300,7 +300,7 @@
 
                                 </div>
                             </div>
-                            <div class="col-xs-6">
+                            <div class="col-xs-5">
                                 <h3>contest name</h3>
 
                             </div>
@@ -314,13 +314,13 @@
                         <div class="row">
                             <div class="list-set scroll">
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             6th May
                                         </div>
                                     </div>
 
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
 
                                         Surprises Round the Corner!
                                     </div>
@@ -339,13 +339,13 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             7th May
                                         </div>
                                     </div>
 
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
 
                                         #ThreeMuch
                                     </div>
@@ -366,13 +366,13 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             7th May
                                         </div>
                                     </div>
 
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
 
                                         #ThreeMuch
                                     </div>
@@ -394,12 +394,12 @@
                                 </div>
 
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             8th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         Happy Birthday Localbanya!
                                     </div>
                                     <div class="col-xs-4">
@@ -415,12 +415,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             8th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -436,12 +436,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             8th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ThreeMuch
                                     </div>
                                     <div class="col-xs-4">
@@ -461,12 +461,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             9th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
                                     <div class="col-xs-4">
@@ -482,12 +482,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             9th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
                                     <div class="col-xs-4">
@@ -503,12 +503,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             10th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert Mother's Day
                                     </div>
                                     <div class="col-xs-4">
@@ -524,12 +524,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             11th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -546,12 +546,12 @@
                                 </div>
 
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             13th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -567,12 +567,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             15th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -588,12 +588,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             15th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
                                     <div class="col-xs-4">
@@ -609,12 +609,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             16th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
                                     <div class="col-xs-4">
@@ -630,12 +630,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             18th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -651,12 +651,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             21th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -673,12 +673,12 @@
                                 </div>
 
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             23th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
                                     <div class="col-xs-4">
@@ -694,12 +694,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             25th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -715,12 +715,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             27th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -736,12 +736,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             28th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
                                     <div class="col-xs-4">
@@ -757,12 +757,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             30th May
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
                                     <div class="col-xs-4">
@@ -779,12 +779,12 @@
                                 </div>
 
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             1st June
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">
@@ -800,12 +800,12 @@
                                     </div>
                                 </div>
                                 <div class="cal-mk">
-                                    <div class="col-xs-2">
+                                    <div class="col-xs-3">
                                         <div class="cal-left">
                                             4st June
                                         </div>
                                     </div>
-                                    <div class="col-xs-6">
+                                    <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
                                     <div class="col-xs-4">

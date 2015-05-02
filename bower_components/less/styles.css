@@ -385,7 +385,7 @@ a:focus {
   display: flex;
   list-style: none;
   float: right;
-  /* margin: 0px 1px !important; */
+  margin: 0px 22px !important;
   text-align: center !important;
   width: 100%;
   padding-left: 27px ;

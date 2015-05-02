@@ -294,7 +294,7 @@ a:focus {
 }
 .rw {
   position: relative;
-  bottom: 35px;
+  bottom: 36px;
   color: #ffffff;
 }
 .rws {
@@ -550,7 +550,6 @@ a:focus {
   border-radius: 4px;
 }
 .scocial-set {
-  margin-top: -30px;
   margin-bottom: 55px;
 }
 .fb_iframe_widget span {

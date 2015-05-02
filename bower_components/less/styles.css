@@ -218,6 +218,8 @@ a:focus {
 }
 .head-mid .mid-right ul {
   display: -webkit-inline-box;
+  display: flex;
+  display: -webkit-box;
   list-style: none;
   text-align: center;
   text-indent: 0;

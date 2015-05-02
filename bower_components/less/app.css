@@ -72,6 +72,9 @@ code {
     width: 100%;
     margin: 0 auto 40px;
     -khtml-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
 }
 
@@ -153,6 +156,8 @@ code {
     .li-soc i {
         font-size: 14px;
         background: #4d72d2;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
         border-radius: 5px;
         height: 25px;
         width: 25px;
@@ -355,6 +360,8 @@ code {
     }
     .twit .fa-twitter {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -369,6 +376,8 @@ code {
     }
     .fb .fa-facebook {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -376,6 +385,8 @@ code {
     }
     .insta .fa-instagram {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -407,15 +418,6 @@ code {
     .sco-set {
         padding: 0!important;
     }
-    .sco-set i {
-  background: #3b4f96;
-  font-size: 14px !important;
-  padding: 5px 6px 0px 6px;
-  margin: 3px 4px;
-  border-radius: 5px;
-  height: 26px;
-  width: 26px;
-}
     .fot-txt p {
         line-height: 120%!important;
         font-size: 12px !important;

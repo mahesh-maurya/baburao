@@ -875,7 +875,7 @@
                                                 <div class="wht-cont">
                                                     <h4 class="whiteboxname">amisha arora</h4>
                                                     <p class="whiteboxcontent"></p>
-                                                    <p class="p-wht">order now</p>
+                                                    <a href="http://www.localbanya.com/" target="_blank"><p class="p-wht">order now</p></a>
                                                 </div>
 
                                             </div>

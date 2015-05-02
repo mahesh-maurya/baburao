@@ -13,12 +13,16 @@ $(document).ready(function () {
 
     });
 
+        $(".thn").hide();
+    
+       $(".btn-right").click(function () {
+      
+       $(".thn").fadeIn(500);
+       $(".nw").hide(500);
 
-
-    $(".round1").hide();
-    $(".round2").hide();
-    $(".round3").hide();
-    $(".round4").hide();
+ 
+    });
+    
     $("#tabs li").click(function () {
         //  First remove class "active" from currently active tab
         $("#tabs li").removeClass('active');
@@ -47,6 +51,9 @@ $(document).ready(function () {
         $(".wht-cont .whiteboxcontent").text(profcontent);
     });
     
-
+    $(".newslettersubmit").click(function() {
+        var email=$(".newsletteremail").val();
+        $.getJSON("http://wohlig.co.in/newsletter/index.php/json/submitemail",{email:email});
+    });
 
 });

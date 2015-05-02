@@ -255,10 +255,24 @@ code {
         text-align: center;
     }
     .li-soc ul {
+  list-style: none;
+  display: -webkit-inline-box!important;
+    }
+    .thn p {
+  padding: 0px;
+}
+.thn {
+  text-align: center!important;
+}
+    .cal-cont {
+        bottom: 96px;
+    }
+    .li-soc ul {
         padding: 0;
     }
     .cal-mk {
-        zoom: 0.8;
+        zoom: 0.7;
+        font-size: 14px!important;
     }
     .wht-cont {
         padding: 0px 0px 20px 15px;
@@ -276,6 +290,8 @@ code {
     }
     .whit-box {
         width: 100%!important;
+        padding: 20px!important;
+        left: 50%!important;
     }
     .log-cl {
         position: relative;
@@ -291,8 +307,20 @@ code {
         padding-top: 15px;
         text-align: center;
     }
+    /*
+    .fb-st {
+        border: 0px solid #fff!important;
+    }
+*/
+    
     .head-mid .mid-right ul {
         float: none!important;
+        display: inline-block!important;
+        display: -webkit-inline-box!important;
+        list-style: none!important;
+        text-align: center!important;
+        text-indent: 0!important;
+        padding: 0px!important;
     }
     .head-end .cl1 p {
         font-size: 14px;
@@ -301,7 +329,7 @@ code {
         padding-top: 10px;
     }
     .livefeedhead p {
-        font-size: 20px!important;
+        font-size: 16px!important;
         top: 15px!important;
     }
     .rg-tc {
@@ -323,15 +351,50 @@ code {
         height: 70px !important;
     }
     .livefeedhead p {
-        font-size: 20px;
-        top: 15px;
+        font-size: 16px!important;
+        top: 15px!important;
+    }
+    .twit .fa-twitter {
+        font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
+        border-radius: 100%!important;
+        height: 60px!important;
+        width: 60px!important;
+        padding: 10px 13px!important;
+        margin: 20px 0px 5px 0px;
+    }
+    .wt-img {
+        margin-bottom: 5px;
+    }
+    .row.bor {
+        zoom: 0.8;
+    }
+    .fb .fa-facebook {
+        font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
+        border-radius: 100%!important;
+        height: 60px!important;
+        width: 60px!important;
+        padding: 11px 15px!important;
+    }
+    .insta .fa-instagram {
+        font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
+        border-radius: 100%!important;
+        height: 60px!important;
+        width: 60px!important;
+        padding: 10px 14px!important;
+        margin: 25px 0 3px 0;
     }
     .rw {
         bottom: 36px;
     }
     .rws {
         position: relative;
-        top: 10px;
+        top: 15px;
         color: #ffffff;
     }
     .cal-set .afterlocals img {
@@ -356,7 +419,8 @@ code {
         font-size: 12px !important;
     }
     .fot-txt {
-        bottom: 10px;
+        bottom: 10px!important;
+        padding: 110px 0px 15px!important;
     }
     .slider {
         width: 100%;
@@ -381,6 +445,12 @@ code {
         text-align: center;
         padding-left: 0;
     }
+/*
+        .frame {
+        min-height: 220px;
+          width: 200px;
+    }
+*/
     .foo-txt h6 {
         font-size: 8px!important;
     }

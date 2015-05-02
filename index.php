@@ -867,7 +867,6 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="slic-set">
-
                                     <div class="slider js_multislides multislides">
                                         <div class="frame js_frame">
                                             <?php $pop=array();?>

@@ -249,16 +249,19 @@ code {
     .imgs-right {
         text-align: center;
     }
+    .head-mid .mid-right {
+        padding-bottom: 15px;
+    }
     .li-soc ul {
-  list-style: none;
-  display: -webkit-inline-box!important;
+        list-style: none;
+        display: -webkit-inline-box!important;
     }
     .thn p {
-  padding: 0px;
-}
-.thn {
-  text-align: center!important;
-}
+        padding: 0px;
+    }
+    .thn {
+        text-align: center!important;
+    }
     .cal-cont {
         bottom: 96px;
     }
@@ -268,6 +271,7 @@ code {
     .cal-mk {
         zoom: 0.7;
         font-size: 14px!important;
+        padding-left: 15px;
     }
     .wht-cont {
         padding: 0px 0px 20px 15px;
@@ -299,7 +303,7 @@ code {
         margin: 0 auto;
     }
     .head-mid .mid-left {
-        padding-top: 15px;
+        padding-top: 15px!important;
         text-align: center;
     }
     /*
@@ -443,12 +447,13 @@ code {
         text-align: center;
         padding-left: 0;
     }
-/*
+    /*
         .frame {
         min-height: 220px;
           width: 200px;
     }
 */
+    
     .foo-txt h6 {
         font-size: 8px!important;
     }

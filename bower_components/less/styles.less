@@ -134,8 +134,11 @@ a:hover, a:focus {
             position: absolute;
             left: 0px;
             display: -webkit-inline-box;
+            display: -webkit-box;
+            display: flex;
             font-size: 14.5px;
             padding: 0px 0px 0px 52px;
+            margin: 0px;
             margin: 0px;
             list-style: none;
 
@@ -453,6 +456,8 @@ a:hover, a:focus {
 
 .sco-set {
     display: -webkit-inline-box;
+     display: -webkit-box;
+            display: flex;
     list-style: none;
     float: right;
     /* margin: 0px 1px !important; */
@@ -483,6 +488,7 @@ a:hover, a:focus {
 .head-foot {
     margin-top: -101px;
     background: @yellow;
+    position: relative;
 }
 
 .fot-txt {
@@ -534,6 +540,8 @@ a:hover, a:focus {
     ul {
         list-style: none;
         display: -webkit-inline-box;
+         display: -webkit-box;
+            display: flex;
         margin: 17px 0px;
 
         li { margin: 0px 2px; }
@@ -665,6 +673,8 @@ a:hover, a:focus {
 }
 .fb_iframe_widget span {
   display: inline-block;
+     display: -webkit-box;
+            display: flex;
   position: relative;
   text-align: justify;
   height: 354px !important;
@@ -675,6 +685,7 @@ a:hover, a:focus {
      -moz-filter: blur(4px);
      -o-filter: blur(4px);
      filter: blur(4px);
+    opacity: 0.2;
     cursor: pointer;
 }
 .roll {
@@ -702,6 +713,11 @@ cursor: pointer;
 }
 .cl3:hover .cl4 {
     -webkit-filter: none;
+    -moz-filter: none;
+    -o-filter: none;
+   filter: none;
+    opacity: 1;
+    
 }
 
 
@@ -711,6 +727,7 @@ cursor: pointer;
      -o-filter: blur(4px);
      filter: blur(4px);
     cursor: pointer;
+    opacity: 0.2;
     p{
    
   font-family: tabitha;
@@ -737,4 +754,11 @@ cursor: pointer;
   line-height: 15px;
          color:@blue-text;
 }
+}
+.livefeedhead {
+  position: relative;
+}
+.cal-mk {
+  font-family: tabitha;
+  margin-bottom: 55px;
 }

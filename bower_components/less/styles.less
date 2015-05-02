@@ -92,10 +92,11 @@ a {
     .active { text-decoration: none; }
 }
 
-a:hover { text-decoration: none; 
-color:none;
-}
 
+a:hover, a:focus {
+  color: @base;
+  text-decoration: underline;
+}
 .head-set {
     background: @yellow;
     padding: 15px 0px;
@@ -685,7 +686,7 @@ color:none;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
-      color: rgb(46, 46, 46);
+       color: #67686a;
 }
 .cl3:hover .roll{
 opacity: 1;

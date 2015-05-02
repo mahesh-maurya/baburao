@@ -68,9 +68,10 @@ a {
 a .active {
   text-decoration: none;
 }
-a:hover {
-  text-decoration: none;
-  color: none;
+a:hover,
+a:focus {
+  color: #ffffff;
+  text-decoration: underline;
 }
 .head-set {
   background: #fcc031;
@@ -576,7 +577,7 @@ a:hover {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
-  color: #2e2e2e;
+  color: #67686a;
 }
 .cl3:hover .roll {
   opacity: 1;

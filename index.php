@@ -122,13 +122,13 @@
                     <div class="col-md-4">
                         <div class="mid-right">
                             <p>Tweet count:</p>
-                            <ul>
+                           <a href="https://twitter.com/LocalBanya"> <ul>
                                 <li>2</li>
                                 <li>0</li>
                                 <li>7</li>
                                 <li>4</li>
                                 <li>3</li>
-                            </ul>
+                            </ul></a>
                         </div>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
             <div class="row scocial-set">
                 <div class="col-md-4">
                     <div class="fb">
-                        <i class="fa fa-facebook"></i>
+                        <a href=" http://www.localbanya.com/" target="_blank"><i class="fa fa-facebook"></i></a>
                         <div class="fb-st">
                             <div class="fb-page" data-href="https://www.facebook.com/localbanya" data-width="100%" data-height="360" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
                                 <div class="fb-xfbml-parse-ignore">
@@ -227,7 +227,7 @@
                 <div class="col-md-4">
 
                     <div class="twit">
-                        <i class="fa fa-twitter"></i>
+                        <a href=" http://www.localbanya.com/" target="_blank"> <i class="fa fa-twitter"></i></a>
                         <div class="tw-st">
                             <a class="twitter-timeline" href="https://twitter.com/LocalBanya" data-widget-id="594025626274648064">Tweets by @LocalBanya</a>
                             <script>
@@ -248,7 +248,7 @@
                 <div class="col-md-4">
                     <div class="insta">
 
-                        <i class="fa fa-instagram"></i>
+                        <a href=" http://www.localbanya.com/" target="_blank"><i class="fa fa-instagram"></i></a>
                         <div class="in-st">
                             <iframe src="//instansive.com/widgets/006874267dbc8cea6039a4add44013928bff372a.html" id="instansive_006874267d" name="instansive_006874267d" scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
@@ -359,21 +359,21 @@
                                         <li>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-twitter"></i></a>
+                                                <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="sco-set">
                                                 <li style="opacity:0">
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href=""><i class="fa fa-facebook" ></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
                                                 <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
@@ -383,10 +383,10 @@
                                         <li>
                                             <ul class="sco-set">
                                                 <li style="opacity:0">
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href=""><i class="fa fa-facebook" target="_blank"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
                                                 <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
@@ -396,25 +396,25 @@
                                         <li>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""> <i class="fa fa-facebook"></i>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"> <i class="fa fa-facebook"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-twitter"></i></a>
+                                                <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
@@ -424,7 +424,7 @@
                                                     <a href=""><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
                                                 <li style="opacity:0"> <a href=""><i class="fa fa-instagram"></i></a>
@@ -434,203 +434,203 @@
                                         <li>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                         </li>
                                         <li>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                             <ul class="sco-set">
                                                 <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                             <ul class="sco-set">
-                                                <li>
-                                                    <a href=""><i class="fa fa-facebook"></i></a>
+                                                <li> 
+                                                    <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a href=""> <i class="fa fa-twitter"></i>
+                                                    <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                                     </a>
                                                 </li>
-                                                <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                                 </li>
                                             </ul>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li style="">
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li style="">
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     <ul class="sco-set">
                                         <li>
-                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </li>
                                         <li>
-                                            <a href=""> <i class="fa fa-twitter"></i>
+                                            <a href="https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                                             </a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-instagram"></i></a>
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                     </li>
@@ -795,26 +795,26 @@
                                 <h6>terms and conditions</h6>
                             </div>
                             <div class="col-md-3 col-xs-4 text-center">
-                                <a href=""><h6>www.localbanya.com</h6></a>
+                                <a href="http://www.localbanya.com/" target="_blank"><h6>www.localbanya.com</h6></a>
                             </div>
                             <div class="col-md-3 col-xs-12 ">
                                 <div class="li-soc">
                                     <ul>
-                                        <li> <a href=""><i class="fa fa-twitter">
+                                        <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter">
                                         </i></a>
                                         </li>
-                                        <li> <a href=""><i class="fa fa-facebook">
+                                        <li> <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook">
                                         </i></a>
                                         </li>
 
-                                        <li> <a href=""><i class="fa fa-instagram">
+                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram">
                                         </i></a>
                                         </li>
-                                        <li><a href=""><i class="fa fa-google-plus"></i></a>
+                                        <li><a href="https://plus.google.com/108132928203762919323/about" target="_blank"><i class="fa fa-google-plus"></i></a>
                                         </li>
-                                        <li><a href=""><i class="fa fa-linkedin"></i></a>
+                                        <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin"><i class="fa fa-linkedin"></i></a>
                                         </li>
-                                        <li><a href=""><i class="fa fa-pinterest-p"></i><a/></li>
+                                        <li><a href="https://www.pinterest.com/localbanya/" target="_blank"><i class="fa fa-pinterest-p"></i><a/></li>
                                     <li><a href=""><i class="fa fa-youtube"></i></a>
                                         </li>
                                     </ul>

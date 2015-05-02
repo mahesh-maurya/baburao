@@ -86,6 +86,7 @@ code {
     line-height: 0;
     overflow: hidden;
     white-space: nowrap;
+    min-height: 73px;
 }
 
 .frame li {

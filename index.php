@@ -28,7 +28,8 @@
     <link rel="stylesheet" href="bower_components/less/jquery.mCustomScrollbar.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet/less" href="bower_components/less/styles.less">
+<!--    <link rel="stylesheet/less" href="bower_components/less/styles.less">-->
+    <link rel="stylesheet/less" href="bower_components/less/styles.css">
     <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>
 
     <!--[if IE]>

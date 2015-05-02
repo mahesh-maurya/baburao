@@ -36,7 +36,16 @@
         <script src="https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
         
     <![endif]-->
-
+    <style type='text/css'>
+/*This will work for chrome */
+          
+/*This will work for firefox*/
+                 @-moz-document url-prefix() {
+    .fot-txt {
+        padding:56px 0px 30px;
+    }
+}
+                </style>
 </head>
 
 <body>
@@ -831,7 +840,11 @@
                         </div>
                     </div>
                 </div>
+                      </div>
+        </div>
+               <div class="df">
                 <div class="head-foot">
+                   <div class="dff">
                     <div class="text-center livefeedhead">
                         <p>Return gifts</p>
                     </div>
@@ -840,6 +853,7 @@
                             <img src="bower_components/img/banya.png" alt="">
                         </div>
                         <div class="col-md-8 back-set"></div>
+                    </div>
                     </div>
                     <div class="container">
                         <div class="row">
@@ -967,6 +981,8 @@
 
                     </div>
                 </div>
+                </div>
+                
                 <div class="container">
                     <div class="row">
                         <div class="foo-txt">
@@ -1007,8 +1023,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
+      
 
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="bower_components/jquery/jquery.lory.min.js"></script>
@@ -1076,6 +1091,15 @@
                     });
                 });
             });
+        </script>
+        <script>
+        $(document).ready ( 
+ function() {
+  if ( $.browser.mozilla == true && $.browser.version < '1.9' ) {
+   $('.fot-txt').css('padding','69px 0px 16px;');
+  }
+ }
+);
         </script>
 
 

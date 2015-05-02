@@ -257,6 +257,9 @@ code {
     .li-soc ul {
         padding: 0;
     }
+    .cal-mk {
+        zoom: 0.8;
+    }
     .wht-cont {
         padding: 0px 0px 20px 15px;
         /* text-align: left; */

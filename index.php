@@ -341,7 +341,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            7th May
+                                            6th May
                                         </div>
                                     </div>
 
@@ -351,17 +351,17 @@
                                     </div>
                                     <div class="col-xs-4">
                                         <ul class="sco-set">
-                                            <!--
-                                            <li>
+                                            
+                                            <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
--->
+
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            <!--
-                                            <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            
+                                            <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
--->
+
                                         </ul>
                                     </div>
                                 </div>
@@ -378,17 +378,17 @@
                                     </div>
                                     <div class="col-xs-4">
                                         <ul class="sco-set">
-                                            <!--
-                                            <li>
+                                            
+                                            <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
--->
+
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            <!--
-                                            <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            
+                                            <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
--->
+
                                         </ul>
                                     </div>
                                 </div>
@@ -671,7 +671,27 @@
                                         </ul>
                                     </div>
                                 </div>
-
+           <div class="cal-mk">
+                                    <div class="col-xs-3">
+                                        <div class="cal-left">
+                                            22th May
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        #NewWeeklyOffer!
+                                    </div>
+                                    <div class="col-xs-4">
+                                        <ul class="sco-set">
+                                            <li>
+                                                <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
+                                            </li>
+                                            <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
+                                            </li>
+                                            <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -738,7 +758,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            28th May
+                                            29th May
                                         </div>
                                     </div>
                                     <div class="col-xs-5">
@@ -802,7 +822,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            4st June
+                                            4th June
                                         </div>
                                     </div>
                                     <div class="col-xs-5">

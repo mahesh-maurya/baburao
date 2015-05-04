@@ -9,6 +9,8 @@
     <meta name="author" content="">
     <title>Local Banya | Lanading Page</title>
     <link rel="shortcut icon" href="">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet/less" href="bower_components/less/app.css">
 

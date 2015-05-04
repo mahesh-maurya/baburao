@@ -157,12 +157,12 @@
                 <div class="row">
                     <div class="rw-head">
                         <div class="col-md-3 col-xs-6">
-                            <div class="cl1">
+                            <a href="http://www.localbanya.com/" target="_blank"> <div class="cl1">
 
                                 <img src="bower_components/img/buy.png" class="img-responsive">
 
                                 <p>9th May - 14th May</p>
-                            </div>
+                                </div></a>
                         </div>
                         <div class="col-md-3 col-xs-6 cl3">
                             <div class="roll">

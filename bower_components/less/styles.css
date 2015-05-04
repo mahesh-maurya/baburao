@@ -71,7 +71,7 @@ a .active {
 a:hover,
 a:focus {
   color: #ffffff;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .head-set {
   background: #fcc031;

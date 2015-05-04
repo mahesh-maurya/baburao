@@ -1012,7 +1012,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3 col-xs-4 text-center">
-                                <h6>terms and conditions</h6>
+                                <a href="doc/T&CLocalbanyaFinal.pdf" target="_blank"> <h6>terms and conditions</h6></a>
                             </div>
                             <div class="col-md-3 col-xs-4 text-center">
                                 <a href="http://www.localbanya.com/" target="_blank"><h6>www.localbanya.com</h6></a>

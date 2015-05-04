@@ -905,10 +905,10 @@
 
                                                 <li class="js_slide">
                                                     <div class="prof-set">
-                                                        <h4 class="profname">Amisha Arora</h4>
+                                                        <h4 class="profname">Dimpy Agarwal</h4>
                                                         <p>JAR Design</p>
                                                         <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                        <img src="bower_components/img/amisha.png" class="img-responsive">
+                                                        <img src="bower_components/img/dimpy.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">banglore</p>
                                                     </div>
@@ -924,35 +924,38 @@
                                                         <p style="    line-height: 36px;">delhi</p>
                                                     </div>
                                                 </li>
+                                                    <li class="js_slide">
+                                                        <div class="prof-set">
+                                                            <h4 class="profname">Nitisha Kamdar</h4>
+                                                            <p>JAR Design</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <img src="bower_components/img/nitisha.png" class="img-responsive">
+
+                                                            <p style="    line-height: 36px;">chennai</p>
+                                                        </div>
+                                                    </li>
+                                                           <li class="js_slide">
+                                                        <div class="prof-set">
+                                                            <h4 class="profname">Dimpy Agarwal</h4>
+                                                            <p>JAR Design</p>
+                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                            <img src="bower_components/img/dimpy.png" class="img-responsive">
+
+                                                            <p style="    line-height: 36px;">banglore</p>
+                                                        </div>
+                                                    </li>
                                                 <li class="js_slide">
                                                     <div class="prof-set">
                                                         <h4 class="profname">Sumira Roy</h4>
                                                         <p>JAR Design</p>
                                                         <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                        <img src="bower_components/img/nita.png" class="img-responsive">
+                                                        <img src="bower_components/img/dimpy2.png" class="img-responsive">
 
                                                         <p style="    line-height: 36px;">mumbai</p>
                                                     </div>
-                                                    <li class="js_slide">
-                                                        <div class="prof-set">
-                                                            <h4 class="profname">Gavin Birer</h4>
-                                                            <p>JAR Design</p>
-                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                            <img src="bower_components/img/govind.png" class="img-responsive">
-
-                                                            <p style="    line-height: 36px;">chennai</p>
-                                                        </div>
-                                                    </li>
-                                                    <li class="js_slide">
-                                                        <div class="prof-set">
-                                                            <h4 class="profname">amisha arora</h4>
-                                                            <p>JAR Design</p>
-                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                            <img src="bower_components/img/amisha.png" class="img-responsive">
-
-                                                            <p style="    line-height: 36px;">banglore</p>
-                                                        </div>
-                                                    </li>
+                                                
+                                             
+<!--
                                                     <li class="js_slide">
                                                         <div class="prof-set">
                                                             <h4 class="profname">Amal Farooque</h4>
@@ -983,6 +986,7 @@
                                                             <p style="   line-height: 36px;">chennai</p>
                                                         </div>
                                                     </li>
+-->
 
                                             </ul>
                                         </div>
@@ -1035,8 +1039,10 @@
                                         <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin"><i class="fa fa-linkedin"></i></a>
                                         </li>
                                         <li><a href="https://www.pinterest.com/localbanya/" target="_blank"><i class="fa fa-pinterest-p"></i><a/></li>
+<!--
                                     <li><a href=""><i class="fa fa-youtube"></i></a>
                                         </li>
+-->
                                     </ul>
                                 </div>
                             </div>

@@ -196,7 +196,7 @@ a:focus {
 }
 .log-cl {
   position: relative;
-  top: 30px;
+  top: 12px;
 }
 .head-mid {
   background: #3b4f96;
@@ -372,7 +372,7 @@ a:focus {
   line-height: 45px;
 }
 .cal-cont .list-set {
-  height: 280px;
+  height: 320px;
   overflow-y: hidden;
   position: relative;
   width: 100%;

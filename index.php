@@ -446,17 +446,17 @@
                                     </div>
                                     <div class="col-xs-4">
                                         <ul class="sco-set">
-                                            <!--
-                                            <li>
+                                            
+                                            <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
--->
+
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            <!--
-                                            <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            
+                                            <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
--->
+
                                         </ul>
                                     </div>
                                 </div>

@@ -72,6 +72,9 @@ code {
     width: 100%;
     margin: 0 auto 40px;
     -khtml-user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     user-select: none;
 }
 
@@ -153,6 +156,8 @@ code {
     .li-soc i {
         font-size: 14px;
         background: #4d72d2;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
         border-radius: 5px;
         height: 25px;
         width: 25px;
@@ -251,6 +256,12 @@ code {
     }
     .head-mid .mid-right {
         padding-bottom: 15px;
+    }
+    .prof-set h5.date {
+        font-size: 8px!important;
+    }
+    .prof-set p {
+        font-size: 8px;
     }
     .li-soc ul {
         list-style: none;
@@ -355,6 +366,8 @@ code {
     }
     .twit .fa-twitter {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -369,6 +382,8 @@ code {
     }
     .fb .fa-facebook {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -376,6 +391,8 @@ code {
     }
     .insta .fa-instagram {
         font-size: 40px!important;
+        -webkit-border-radius: 100%!important;
+        -moz-border-radius: 100%!important;
         border-radius: 100%!important;
         height: 60px!important;
         width: 60px!important;
@@ -403,9 +420,23 @@ code {
     }
     .cal-cont h3 {
         font-size: 16px;
+        text-align: left;
+    }
+    .wht-cont h4 {
+        font-size: 20px;
+    }
+    .wht-cont p {
+        font-size: 12px;
+    }
+    .head-mid .mid-left p {
+        font-size: 22px!important;
+    }
+    .prof-set p {
+        font-size: 10px;
+        margin: 5px 0 5px 0!important;
     }
     .sco-set {
-        padding: 0!important;
+        padding-left: 15px!important;
     }
     .fot-txt p {
         line-height: 120%!important;
@@ -424,7 +455,7 @@ code {
         width: 60%;
     }
     .prof-set h4 {
-        font-size: 12px!important;
+        font-size: 11px!important;
     }
     .foo-txt h6 {
         font-size: 12px!important;
@@ -437,6 +468,13 @@ code {
     .livefeedheads p {
         text-align: center;
         padding-left: 0;
+    }
+    .prof-set p {
+        font-size: 8px!important;
+        margin: 5px 0 5px 0!important;
+    }
+    .prof-set h5.date {
+        font-size: 9px!important;
     }
     /*
         .frame {
@@ -506,8 +544,10 @@ code {
         top: 25px !important;
     }
 }
+
 @media only screen and (min-width: 320px)and (max-width: 360px) {
- .frame{ min-height: 220px;
-    width:208px !important;
- }
-} 
+    .frame {
+        min-height: 220px;
+        width: 208px !important;
+    }
+}

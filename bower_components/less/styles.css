@@ -513,7 +513,7 @@ a:focus {
   cursor: pointer;
 }
 .wht-cont {
-  padding: 10px 0px 20px 15px;
+  padding: 10px 0px 0px 15px;
   text-align: left;
 }
 .wht-cont h4 {
@@ -536,7 +536,8 @@ a:focus {
   color: #67686a;
   font-family: bitter;
   text-align: right !important;
-  margin-top: 20px !important;
+  margin-top: 40px !important;
+  text-decoration: underline;
 }
 .fb-st {
   margin-top: 20px;

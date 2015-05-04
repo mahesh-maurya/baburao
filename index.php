@@ -28,7 +28,7 @@
     <link rel="stylesheet" href="bower_components/less/jquery.mCustomScrollbar.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
-<!--    <link rel="stylesheet/less" href="bower_components/less/styles.less">-->
+    <!--    <link rel="stylesheet/less" href="bower_components/less/styles.less">-->
     <link rel="stylesheet/less" href="bower_components/less/styles.css">
     <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>
 
@@ -38,19 +38,19 @@
         
     <![endif]-->
     <style type='text/css'>
-/*This will work for chrome */
-          
-/*This will work for firefox*/
-                 @-moz-document url-prefix() {
-    .fot-txt {
-        padding:56px 0px 30px;
-    }
-                     .sco-set{
-                     display:flex;
-                         display: -webkit-box; 
-                     }
-}
-                </style>
+        /*This will work for chrome */
+        /*This will work for firefox*/
+        
+        @-moz-document url-prefix() {
+            .fot-txt {
+                padding: 56px 0px 30px;
+            }
+            .sco-set {
+                display: flex;
+                display: -webkit-box;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -133,12 +133,12 @@
         <div class="head-mid">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8">
+                    <div class="col-md-12">
                         <div class="mid-left">
                             <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>
                         </div>
-
                     </div>
+                    <!--
                     <div class="col-md-4">
                         <div class="mid-right">
                             <p>Tweet count:</p>
@@ -153,6 +153,7 @@
                             </a>
                         </div>
                     </div>
+-->
                 </div>
             </div>
         </div>
@@ -161,12 +162,14 @@
                 <div class="row">
                     <div class="rw-head">
                         <div class="col-md-3 col-xs-6">
-                            <a href="http://www.localbanya.com/" target="_blank"> <div class="cl1">
+                            <a href="http://www.localbanya.com/" target="_blank">
+                                <div class="cl1">
 
-                                <img src="bower_components/img/buy.png" class="img-responsive">
+                                    <img src="bower_components/img/buy.png" class="img-responsive">
 
-                                <p>9th May - 14th May</p>
-                                </div></a>
+                                    <p>9th May - 14th May</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-3 col-xs-6 cl3">
                             <div class="roll">
@@ -174,7 +177,9 @@
                                 <img src="bower_components/img/roll.png">
                             </div>
                             <div class="cl1 cl2">
-                                <img src="bower_components/img/coupan.png" class="img-responsive">
+                                <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                <img src="bower_components/img/coupan1.png" class="img-responsive">
                             </div>
                             <div class="cl4">
                                 <p>15th May - 21th May</p>
@@ -186,8 +191,8 @@
                                 <img src="bower_components/img/roll.png">
                             </div>
                             <div class="cl1 cl2">
-
-                                <img src="bower_components/img/discount.png" class="img-responsive">
+                                <!--                                <img src="bower_components/img/discount.png" class="img-responsive">-->
+                                <img src="bower_components/img/buy1.png" class="img-responsive">
                             </div>
                             <div class="cl4">
                                 <p>22th May - 28th May</p>
@@ -199,10 +204,8 @@
                                 <img src="bower_components/img/roll.png">
                             </div>
                             <div class="cl1 cl2">
-
-
-
-                                <img src="bower_components/img/shop.png" class="img-responsive">
+                                <!--                                <img src="bower_components/img/shop.png" class="img-responsive">-->
+                                <img src="bower_components/img/coupan1.png" class="img-responsive">
                             </div>
                             <div class="cl4">
                                 <p>29th May - 8th June</p>
@@ -309,7 +312,7 @@
 
                             </div>
                             <div class="col-xs-4">
-                                <h3> medium</h3>
+                                <h3 class="text-center"> medium</h3>
 
 
                             </div>
@@ -328,7 +331,7 @@
 
                                         Surprises Round the Corner!
                                     </div>
-                                    <div class="col-xs-4 text-center" >
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -355,14 +358,14 @@
                                     </div>
                                     <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
-                                            
+
                                             <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
 
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            
+
                                             <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
 
@@ -382,14 +385,14 @@
                                     </div>
                                     <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
-                                            
+
                                             <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
 
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            
+
                                             <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
 
@@ -450,14 +453,14 @@
                                     </div>
                                     <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
-                                            
+
                                             <li style="opacity:0;">
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
                                             </li>
 
                                             <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
                                             </li>
-                                            
+
                                             <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                                             </li>
 
@@ -675,7 +678,7 @@
                                         </ul>
                                     </div>
                                 </div>
-           <div class="cal-mk">
+                                <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
                                             22th May
@@ -865,11 +868,11 @@
                         </div>
                     </div>
                 </div>
-                      </div>
+            </div>
         </div>
-               <div class="df">
-                <div class="head-foot">
-                   <div class="dff">
+        <div class="df">
+            <div class="head-foot">
+                <div class="dff">
                     <div class="text-center livefeedhead">
                         <p>Return gifts</p>
                     </div>
@@ -879,87 +882,99 @@
                         </div>
                         <div class="col-md-8 back-set"></div>
                     </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="fot-txt">
-                                    <p>A sweet surprise for the first 150 orders of the day,</p>
-                                    <p>specially made by your local food magicians.</p>
-                                </div>
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="fot-txt">
+                                <p>A sweet surprise for the first 150 orders of the day,</p>
+                                <p>specially made by your local food magicians.</p>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="slic-set">
-                                    <div class="slider js_multislides multislides">
-                                        <div class="frame js_frame">
-                                            <?php $pop=array();?>
-                                            <div class="whit-box">
-                                                <img class="wt-img" src="bower_components/img/close.png">
-                                                <div class="wht-cont">
-                                                    <h4 class="whiteboxname">amisha arora</h4>
-                                                    <p class="whiteboxcontent"></p>
-                                                    <a href="http://www.localbanya.com/" target="_blank"><p class="p-wht">order now</p></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="slic-set">
+                                <div class="slider js_multislides multislides">
+                                    <div class="frame js_frame">
+                                        <?php $pop=array();?>
+                                        <div class="whit-box">
+                                            <img class="wt-img" src="bower_components/img/close.png">
+                                            <div class="wht-cont">
+                                                <h4 class="whiteboxname">amisha arora</h4>
+                                                <p class="whiteboxcontent"></p>
+                                                <a href="http://www.localbanya.com/" target="_blank">
+                                                    <p class="p-wht">Order now</p>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                        <ul class="slides js_slides">
+
+
+                                            <li class="js_slide">
+                                                <div class="prof-set">
+                                                    <h4 class="profname">Dimpy Agarwal</h4>
+                                                    <p>Bake A Wish</p>
+                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <img src="bower_components/img/dimpy.png" class="img-responsive">
+
+                                                    <p style="line-height: 20px;">Mumbai</p>
+                                                    <h5 class="date">  9th May, 2015  </h5>
                                                 </div>
 
-                                            </div>
-                                            <ul class="slides js_slides">
+                                            </li>
+                                            <li class="js_slide">
+                                                <div class="prof-set">
+                                                    <h4 class="profname">Amal Farooque</h4>
+                                                    <p>Sugar over Dose</p>
+                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <img src="bower_components/img/amal.png" class="img-responsive">
 
 
-                                                <li class="js_slide">
-                                                    <div class="prof-set">
-                                                        <h4 class="profname">Dimpy Agarwal</h4>
-                                                        <p>JAR Design</p>
-                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                        <img src="bower_components/img/dimpy.png" class="img-responsive">
+                                                    <p style="line-height: 20px;">Mumbai</p>
+                                                    <h5 class="date">  16th May, 2015  </h5>
+                                                </div>
+                                            </li>
+                                            <li class="js_slide">
+                                                <div class="prof-set">
+                                                    <h4 class="profname">Nitisha Kamdar</h4>
+                                                    <p>Bake A Wish</p>
+                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <img src="bower_components/img/nitisha.png" class="img-responsive">
 
-                                                        <p style="    line-height: 36px;">banglore</p>
-                                                    </div>
 
-                                                </li>
-                                                <li class="js_slide">
-                                                    <div class="prof-set">
-                                                        <h4 class="profname">Amal Farooque</h4>
-                                                        <p>JAR Design</p>
-                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                        <img src="bower_components/img/amal.png" class="img-responsive">
+                                                    <p style="line-height: 20px;">Mumbai</p>
+                                                    <h5 class="date">  23rd May, 2015  </h5>
+                                                </div>
+                                            </li>
+                                            <li class="js_slide">
+                                                <div class="prof-set">
+                                                    <h4 class="profname">Dimpy Agarwal</h4>
+                                                    <p>Sucre</p>
+                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <img src="bower_components/img/dimpy.png" class="img-responsive">
 
-                                                        <p style="    line-height: 36px;">delhi</p>
-                                                    </div>
-                                                </li>
-                                                    <li class="js_slide">
-                                                        <div class="prof-set">
-                                                            <h4 class="profname">Nitisha Kamdar</h4>
-                                                            <p>JAR Design</p>
-                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                            <img src="bower_components/img/nitisha.png" class="img-responsive">
 
-                                                            <p style="    line-height: 36px;">chennai</p>
-                                                        </div>
-                                                    </li>
-                                                           <li class="js_slide">
-                                                        <div class="prof-set">
-                                                            <h4 class="profname">Dimpy Agarwal</h4>
-                                                            <p>JAR Design</p>
-                                                            <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                            <img src="bower_components/img/dimpy.png" class="img-responsive">
+                                                    <p style="line-height: 20px;">Mumbai</p>
+                                                    <h5 class="date">  30th May, 2015  </h5>
 
-                                                            <p style="    line-height: 36px;">banglore</p>
-                                                        </div>
-                                                    </li>
-                                                <li class="js_slide">
-                                                    <div class="prof-set">
-                                                        <h4 class="profname">Sumira Roy</h4>
-                                                        <p>JAR Design</p>
-                                                        <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
-                                                        <img src="bower_components/img/dimpy2.png" class="img-responsive">
+                                                </div>
+                                            </li>
+                                            <li class="js_slide">
+                                                <div class="prof-set">
+                                                    <h4 class="profname">Sumira Roy</h4>
+                                                    <p>JAR Design</p>
+                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <img src="bower_components/img/dimpy2.png" class="img-responsive">
 
-                                                        <p style="    line-height: 36px;">mumbai</p>
-                                                    </div>
-                                                
-                                             
-<!--
+
+                                                    <p style="line-height: 20px;">Mumbai</p>
+                                                    <h5 class="date">  6th June, 2015  </h5>
+                                                </div>
+
+
+                                                <!--
                                                     <li class="js_slide">
                                                         <div class="prof-set">
                                                             <h4 class="profname">Amal Farooque</h4>
@@ -992,68 +1007,70 @@
                                                     </li>
 -->
 
-                                            </ul>
-                                        </div>
+                                        </ul>
+                                    </div>
 
-                                        <span class="js_prev prev">
+                                    <span class="js_prev prev">
                    <img src="bower_components/img/left.png" class="img-responsive">
                 </span>
 
-                                        <span class="js_next next">
+                                    <span class="js_next next">
                     <img src="bower_components/img/right.png" class="img-responsive">
                 </span>
-                                    </div>
                                 </div>
                             </div>
                         </div>
-
                     </div>
-                </div>
-                </div>
-                
-                <div class="container">
-                    <div class="row">
-                        <div class="foo-txt">
-                            <div class="col-md-3 col-xs-4 text-center">
-                                <div class="">
-                                    <h6>copyright 2015 @ localbanya</h6>
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-xs-4 text-center">
-                                <a href="doc/T&CLocalbanyaFinal.pdf" target="_blank"> <h6>terms and conditions</h6></a>
-                            </div>
-                            <div class="col-md-3 col-xs-4 text-center">
-                                <a href="http://www.localbanya.com/" target="_blank"><h6>www.localbanya.com</h6></a>
-                            </div>
-                            <div class="col-md-3 col-xs-12 ">
-                                <div class="li-soc">
-                                    <ul>
-                                        <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter">
-                                        </i></a>
-                                        </li>
-                                        <li> <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook">
-                                        </i></a>
-                                        </li>
 
-                                        <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram">
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="foo-txt">
+                    <div class="col-md-3 col-xs-4 text-center">
+                        <div class="">
+                            <h6>copyright 2015 @ localbanya</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-4 text-center">
+                        <a href="doc/T&CLocalbanyaFinal.pdf" target="_blank">
+                            <h6>terms and conditions</h6>
+                        </a>
+                    </div>
+                    <div class="col-md-3 col-xs-4 text-center">
+                        <a href="http://www.localbanya.com/" target="_blank"><h6>www.localbanya.com</h6></a>
+                    </div>
+                    <div class="col-md-3 col-xs-12 ">
+                        <div class="li-soc">
+                            <ul>
+                                <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter">
                                         </i></a>
-                                        </li>
-                                        <li><a href="https://plus.google.com/108132928203762919323/about" target="_blank"><i class="fa fa-google-plus"></i></a>
-                                        </li>
-                                        <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin"><i class="fa fa-linkedin"></i></a>
-                                        </li>
-                                        <li><a href="https://www.pinterest.com/localbanya/" target="_blank"><i class="fa fa-pinterest-p"></i><a/></li>
+                                </li>
+                                <li> <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook">
+                                        </i></a>
+                                </li>
+
+                                <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram">
+                                        </i></a>
+                                </li>
+                                <li><a href="https://plus.google.com/108132928203762919323/about" target="_blank"><i class="fa fa-google-plus"></i></a>
+                                </li>
+                                <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin"><i class="fa fa-linkedin"></i></a>
+                                </li>
+                                <li><a href="https://www.pinterest.com/localbanya/" target="_blank"><i class="fa fa-pinterest-p"></i><a/></li>
 <!--
                                     <li><a href=""><i class="fa fa-youtube"></i></a>
-                                        </li>
--->
-                                    </ul>
-                                </div>
-                            </div>
+                                </li>
+                                -->
+                            </ul>
                         </div>
                     </div>
                 </div>
-      
+            </div>
+        </div>
+
 
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="bower_components/jquery/jquery.lory.min.js"></script>
@@ -1123,13 +1140,13 @@
             });
         </script>
         <script>
-        $(document).ready ( 
- function() {
-  if ( $.browser.mozilla == true && $.browser.version < '1.9' ) {
-   $('.fot-txt').css('padding','69px 0px 16px;');
-  }
- }
-);
+            $(document).ready(
+                function () {
+                    if ($.browser.mozilla == true && $.browser.version < '1.9') {
+                        $('.fot-txt').css('padding', '69px 0px 16px;');
+                    }
+                }
+            );
         </script>
 
 

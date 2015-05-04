@@ -203,12 +203,13 @@ a:focus {
   padding: 10px;
 }
 .head-mid .mid-left {
-  padding-top: 38px;
+  padding: 20px 0 10px 0;
 }
 .head-mid .mid-left p {
   color: #ffffff;
   font-family: tabitha;
-  font-size: 20px;
+  font-size: 28px;
+  text-align: center;
 }
 .head-mid .mid-right {
   text-align: center;
@@ -362,9 +363,7 @@ a:focus {
   list-style: none;
   font-family: tabitha;
   font-size: 16px;
-  float: left;
-  padding: 0px;
-  margin: 0;
+  margin: 0 auto;
   text-align: center;
 }
 .cal-cont ul li {
@@ -380,15 +379,8 @@ a:focus {
   top: 30px;
 }
 .sco-set {
-  display: -webkit-inline-box;
+  display: -webkit-inline-box !important;
   display: -webkit-box;
-  display: flex;
-  list-style: none;
-  float: right;
-  margin: 0px 22px !important;
-  text-align: center !important;
-  width: 100%;
-  padding-left: 27px ;
 }
 .sco-set i {
   background: #3b4f96;
@@ -428,8 +420,9 @@ a:focus {
 .prof-set p {
   font-family: 'Bitter';
   font-weight: normal;
-  font-size: 10px;
+  font-size: 14px;
   text-transform: capitalize;
+  margin: 20px 0 5px 0;
 }
 .prof-set h4 {
   font-family: tabitha;
@@ -439,6 +432,12 @@ a:focus {
 }
 .prof-set img {
   margin: 0 auto;
+}
+.prof-set h5.date {
+  margin-top: 0px;
+  color: #4d72d2;
+  font-size: 18px;
+  font-weight: 700;
 }
 .foo-txt {
   height: 65px;

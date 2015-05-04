@@ -420,7 +420,7 @@ code {
     }
     .cal-cont h3 {
         font-size: 16px;
-        text-align: left;
+/*        text-align: left;*/
     }
     .wht-cont h4 {
         font-size: 20px;
@@ -549,5 +549,9 @@ code {
     .frame {
         min-height: 220px;
         width: 208px !important;
+    }
+     .cal-cont h3 {
+/*        font-size: 16px;*/
+        text-align: left;
     }
 }

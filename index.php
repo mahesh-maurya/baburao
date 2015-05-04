@@ -45,6 +45,10 @@
     .fot-txt {
         padding:56px 0px 30px;
     }
+                     .sco-set{
+                     display:flex;
+                         display: -webkit-box; 
+                     }
 }
                 </style>
 </head>
@@ -324,7 +328,7 @@
 
                                         Surprises Round the Corner!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center" >
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -349,7 +353,7 @@
 
                                         #ThreeMuch
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             
                                             <li style="opacity:0;">
@@ -376,7 +380,7 @@
 
                                         #ThreeMuch
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             
                                             <li style="opacity:0;">
@@ -402,7 +406,7 @@
                                     <div class="col-xs-5">
                                         Happy Birthday Localbanya!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -423,7 +427,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -444,7 +448,7 @@
                                     <div class="col-xs-5">
                                         #ThreeMuch
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             
                                             <li style="opacity:0;">
@@ -469,7 +473,7 @@
                                     <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -490,7 +494,7 @@
                                     <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -511,7 +515,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert Mother's Day
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -532,7 +536,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -554,7 +558,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -575,7 +579,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -596,7 +600,7 @@
                                     <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -617,7 +621,7 @@
                                     <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -638,7 +642,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -659,7 +663,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -680,7 +684,7 @@
                                     <div class="col-xs-5">
                                         #NewWeeklyOffer!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -701,7 +705,7 @@
                                     <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -722,7 +726,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -743,7 +747,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -764,7 +768,7 @@
                                     <div class="col-xs-5">
                                         #NewWeeklyOffer
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -785,7 +789,7 @@
                                     <div class="col-xs-5">
                                         Order to receive a #FreeBite!
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -807,7 +811,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -828,7 +832,7 @@
                                     <div class="col-xs-5">
                                         #ContestAlert
                                     </div>
-                                    <div class="col-xs-4">
+                                    <div class="col-xs-4 text-center">
                                         <ul class="sco-set">
                                             <li>
                                                 <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>

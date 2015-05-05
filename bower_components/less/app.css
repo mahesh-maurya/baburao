@@ -456,7 +456,7 @@ code {
         width: 60%;
     }
     .prof-set h4 {
-        font-size: 11px!important;
+        font-size: 8px!important;
     }
     .foo-txt h6 {
         font-size: 12px!important;
@@ -471,7 +471,7 @@ code {
         padding-left: 0;
     }
     .prof-set p {
-        font-size: 8px!important;
+        font-size: 6px!important;
         margin: 5px 0 5px 0!important;
     }
     .prof-set h5.date {

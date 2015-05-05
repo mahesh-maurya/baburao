@@ -103,6 +103,7 @@ code {
 
 .slides {
     display: inline-block;
+    -webkit-padding-start: 0px;
 }
 
 .simple li {

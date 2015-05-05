@@ -135,11 +135,11 @@
         <div class="head-mid">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-12">
+                    <a href="https://twitter.com/LocalBanya" target="_blank"><div class="col-md-12">
                         <div class="mid-left">
                             <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>
                         </div>
-                    </div>
+                    </div></a>
                     <!--
                     <div class="col-md-4">
                         <div class="mid-right">
@@ -164,7 +164,8 @@
                 <div class="row">
                     <div class="rw-head">
                         <div class="col-md-3 col-xs-6">
-                            <a href="http://www.localbanya.com/" target="_blank">
+
+                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
                                 <div class="cl1">
 
                                     <img src="bower_components/img/buy.png" class="img-responsive">
@@ -178,37 +179,49 @@
                                 <p>visit me again</p>
                                 <img src="bower_components/img/roll.png">
                             </div>
-                            <div class="cl1 cl2">
-                                <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
-                                <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
-                                <img src="bower_components/img/coupan1.png" class="img-responsive">
-                            </div>
+                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
+                                <div class="cl1 cl2">
+                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                    <img src="bower_components/img/coupan1.png" class="img-responsive">
+                                </div>
+                            </a>
                             <div class="cl4">
                                 <p>15th May - 21th May</p>
                             </div>
                         </div>
+                        
+                            <div class="col-md-3 col-xs-6 cl3">
+
+                                 <div class="roll">
+                                    <p>visit me again</p>
+                                    <img src="bower_components/img/roll.png">
+                                     </div>
+
+
+                                <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
+                                   <div class="cl1 cl2">
+                                    <!--                                <img src="bower_components/img/discount.png" class="img-responsive">-->
+                                    <img src="bower_components/img/buy1.png" class="img-responsive">
+                                </div>
+                                </a>
+                                <div class="cl4">
+                                    <p>22th May - 28th May</p>
+                                </div>
+
+                            </div>
+                       
                         <div class="col-md-3 col-xs-6 cl3">
                             <div class="roll">
                                 <p>visit me again</p>
                                 <img src="bower_components/img/roll.png">
                             </div>
-                            <div class="cl1 cl2">
-                                <!--                                <img src="bower_components/img/discount.png" class="img-responsive">-->
-                                <img src="bower_components/img/buy1.png" class="img-responsive">
-                            </div>
-                            <div class="cl4">
-                                <p>22th May - 28th May</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-xs-6 cl3">
-                            <div class="roll">
-                                <p>visit me again</p>
-                                <img src="bower_components/img/roll.png">
-                            </div>
-                            <div class="cl1 cl2">
-                                <!--                                <img src="bower_components/img/shop.png" class="img-responsive">-->
-                                <img src="bower_components/img/coupan1.png" class="img-responsive">
-                            </div>
+                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
+                                <div class="cl1 cl2">
+                                    <!--                                <img src="bower_components/img/shop.png" class="img-responsive">-->
+                                    <img src="bower_components/img/coupan1.png" class="img-responsive">
+                                </div>
+                            </a>
                             <div class="cl4">
                                 <p>29th May - 8th June</p>
                             </div>
@@ -240,7 +253,7 @@
             <div class="row scocial-set">
                 <div class="col-md-4">
                     <div class="fb">
-                        <a href=" http://www.localbanya.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a href=" https://www.facebook.com/localbanya" target="_blank"><i class="fa fa-facebook"></i></a>
                         <div class="fb-st">
                             <div class="fb-page" data-href="https://www.facebook.com/localbanya" data-width="100%" data-height="360" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
                                 <div class="fb-xfbml-parse-ignore">
@@ -254,7 +267,7 @@
                 <div class="col-md-4">
 
                     <div class="twit">
-                        <a href=" http://www.localbanya.com/" target="_blank"> <i class="fa fa-twitter"></i>
+                        <a href=" https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
                         </a>
                         <div class="tw-st">
                             <a class="twitter-timeline" href="https://twitter.com/LocalBanya" data-widget-id="594025626274648064">Tweets by @LocalBanya</a>
@@ -276,7 +289,7 @@
                 <div class="col-md-4">
                     <div class="insta">
 
-                        <a href=" http://www.localbanya.com/" target="_blank"><i class="fa fa-instagram"></i></a>
+                        <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
                         <div class="in-st">
                             <iframe src="//instansive.com/widgets/006874267dbc8cea6039a4add44013928bff372a.html" id="instansive_006874267d" name="instansive_006874267d" scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
@@ -314,7 +327,7 @@
 
                             </div>
                             <div class="col-xs-4">
-                                <h3 class="text-center">Play Here</h3>
+                                <h3 class="text-center">Play Here :</h3>
 
 
                             </div>
@@ -849,6 +862,27 @@
                                         </ul>
                                     </div>
                                 </div>
+                                     <div class="cal-mk">
+                                    <div class="col-xs-3">
+                                        <div class="cal-left">
+                                            6th June
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-5">
+                                        Order to receive a #FreeBite!
+                                    </div>
+                                    <div class="col-xs-4 text-center">
+                                        <ul class="sco-set">
+                                            <li>
+                                                <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
+                                            </li>
+                                            <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
+                                            </li>
+                                            <li> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
 
 
                             </div>
@@ -940,8 +974,8 @@
                                             </li>
                                             <li class="js_slide">
                                                 <div class="prof-set">
-                                                    <h4 class="profname">Nitisha Kamdar</h4>
-                                                    <p>Bake A Wish</p>
+                                                    <h4 class="profname">Nishita Kamdar</h4>
+                                                    <p>Jar Designs</p>
                                                     <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                     <img src="bower_components/img/nitisha.png" class="img-responsive">
 
@@ -953,7 +987,7 @@
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Dimpy Agarwal</h4>
-                                                    <p>Sucre</p>
+                                                    <p>Bake A Wish</p>
                                                     <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                     <img src="bower_components/img/dimpy.png" class="img-responsive">
 
@@ -965,8 +999,8 @@
                                             </li>
                                             <li class="js_slide">
                                                 <div class="prof-set">
-                                                    <h4 class="profname">Sumira Roy</h4>
-                                                    <p>JAR Design</p>
+                                                    <h4 class="profname">Simran Talreja</h4>
+                                                    <p>Sucre</p>
                                                     <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
                                                     <img src="bower_components/img/dimpy2.png" class="img-responsive">
 
@@ -1059,7 +1093,7 @@
                                 </li>
                                 <li><a href="https://plus.google.com/108132928203762919323/about" target="_blank"><i class="fa fa-google-plus"></i></a>
                                 </li>
-                                <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin"><i class="fa fa-linkedin"></i></a>
+                                <li><a href="https://www.linkedin.com/company/localbanya?trk=nav_account_sub_nav_company_admin" target="_blank"><i class="fa fa-linkedin"></i></a>
                                 </li>
                                 <li><a href="https://www.pinterest.com/localbanya/" target="_blank"><i class="fa fa-pinterest-p"></i><a/></li>
 <!--
@@ -1092,7 +1126,7 @@
                 var multiSlides = document.querySelector('.js_multislides');
 
                 lory(multiSlides, {
-//                    infinite: 4,
+                    //                    infinite: 4,
                     slidesToScroll: 4
                 });
             });

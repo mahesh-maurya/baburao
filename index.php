@@ -310,11 +310,11 @@
                                 </div>
                             </div>
                             <div class="col-xs-5">
-                                <h3>contest name</h3>
+                                <h3>contest</h3>
 
                             </div>
                             <div class="col-xs-4">
-                                <h3 class="text-center"> medium</h3>
+                                <h3 class="text-center">Play Here</h3>
 
 
                             </div>
@@ -1092,7 +1092,7 @@
                 var multiSlides = document.querySelector('.js_multislides');
 
                 lory(multiSlides, {
-                    infinite: 4,
+//                    infinite: 4,
                     slidesToScroll: 4
                 });
             });

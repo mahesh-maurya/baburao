@@ -952,7 +952,9 @@
                                                 <div class="prof-set">
                                                     <h4 class="profname">Dimpy Agarwal</h4>
                                                     <p>Bake A Wish</p>
-                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <p class="bodyofprof">One solution to all your dessert cravings !<br>
+Each cake is designed just for you & to be perfect for your celebration. <br>We customize as per your wish.
+</p>
                                                     <img src="bower_components/img/dimpy.png" class="img-responsive">
 
                                                     <p style="line-height: 20px;">Mumbai</p>
@@ -964,7 +966,10 @@
                                                 <div class="prof-set">
                                                     <h4 class="profname">Amal Farooque</h4>
                                                     <p>Sugar over Dose</p>
-                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverDose, originally from a financial background, Amal decided to follow her heart and turn her love for desserts and flavours into busness. A self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
+                                                    <br>
+The House of SugarOverDose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off! 
+</p>
                                                     <img src="bower_components/img/amal.png" class="img-responsive">
 
 
@@ -976,7 +981,7 @@
                                                 <div class="prof-set">
                                                     <h4 class="profname">Nishita Kamdar</h4>
                                                     <p>Jar Designs</p>
-                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! We love to experiment with unique flavours and give our customers desserts they have never tried before!! </p>
                                                     <img src="bower_components/img/nitisha.png" class="img-responsive">
 
 
@@ -988,7 +993,9 @@
                                                 <div class="prof-set">
                                                     <h4 class="profname">Dimpy Agarwal</h4>
                                                     <p>Bake A Wish</p>
-                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <p class="bodyofprof">One solution to all your dessert cravings !<br>
+Each cake is designed just for you & to be perfect for your celebration. <br>We customize as per your wish.
+</p>
                                                     <img src="bower_components/img/dimpy.png" class="img-responsive">
 
 

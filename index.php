@@ -970,6 +970,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                     <p>Chocolates and more..</p>
                                                     <p class="bodyofprof"> Chocoholic offers a wide range of products which are delicately made with by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
 </p>
+                                                    <img src="bower_components/img/rishika.png" class="img-responsive">
 
                                                     <p style="line-height: 20px;">Mumbai</p>
                                                     <h5 class="date">  9th May, 2015  </h5>

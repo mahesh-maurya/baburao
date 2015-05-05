@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="head-right">
-                            <img src="bower_components/img/obj3.png" style="position: absolute;">
+                            <img src="bower_components/img/obj3.png" style="position: absolute;top:-15px;">
                             <div class="text-right">
                                 <div class="rgh-txt">
                                     <div class="nw">
@@ -187,7 +187,7 @@
                                 </div>
                             </a>
                             <div class="cl4">
-                                <p>15th May - 21th May</p>
+                                <p>15th May - 21st May</p>
                             </div>
                         </div>
                         

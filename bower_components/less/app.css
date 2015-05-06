@@ -232,7 +232,7 @@ code {
     .afterlocal img {
         bottom: 44px;
         left: 11px;
-        height: 115px;
+/*        height: 115px;*/
     }
     .variablewidth li {
         width: 280px;

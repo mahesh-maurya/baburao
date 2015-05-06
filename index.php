@@ -139,7 +139,8 @@
                     <a href="https://twitter.com/LocalBanya" target="_blank">
                         <div class="col-md-12">
                             <div class="mid-left">
-                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>
+                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>
+<!--                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>-->
                             </div>
                         </div>
                     </a>
@@ -972,7 +973,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
                                                     <p>Chocoholic</p>
-                                                    <p class="bodyofprof">Chocoholic offers a wide range of products which are delicately made with by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
+                                                    <p class="bodyofprof">Chocoholic offers a wide range of products which are delicately made by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
                                                     </p>
                                                     <img src="bower_components/img/rishika.png" class="img-responsive">
 
@@ -985,7 +986,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Amal Farooque</h4>
                                                     <p>Sugar over Dose</p>
-                                                    <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverDose, originally from a financial background, Amal decided to follow her heart and turn her love for desserts and flavours into busness. A self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
+                                                    <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverDose, originally from a financial background, decided to follow her heart and turn her love for desserts and flavours into business. She's a self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
                                                         <br>The House of SugarOverDose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off!
                                                     </p>
                                                     <img src="bower_components/img/amal.png" class="img-responsive">
@@ -999,7 +1000,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Nishita Kamdar</h4>
                                                     <p>Jar Designs</p>
-                                                    <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! We love to experiment with unique flavours and give our customers desserts they have never tried before!!</p>
+                                                    <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! They love to experiment with unique flavours and give their customers desserts they have never tried before!!</p>
                                                     <img src="bower_components/img/nitisha.png" class="img-responsive">
 
 
@@ -1013,7 +1014,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                     <p>Bake A Wish</p>
                                                     <p class="bodyofprof">One solution to all your dessert cravings !
                                                         <br>Each cake is designed just for you & to be perfect for your celebration.
-                                                        <br>We customize as per your wish.
+                                                        <br>Bake A Wish customize as per your wish.
                                                     </p>
                                                     <img src="bower_components/img/dimpy.png" class="img-responsive">
 

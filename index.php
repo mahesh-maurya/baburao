@@ -700,7 +700,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            22th May
+                                            22nd May
                                         </div>
                                     </div>
                                     <div class="col-xs-5">

@@ -378,7 +378,7 @@ code {
     .rg-tc {
         padding-top: 10px;
     }
-/*
+    /*
     .afterlocal img {
         float: left !important;
         left: 88%!important;
@@ -391,6 +391,7 @@ code {
         transform: translateX(0%);
     }
 */
+    
     .li-soc {
         text-align: center;
     }
@@ -447,7 +448,7 @@ code {
         width: 120px;
         margin-right: 25px;
     }
-/*
+    /*
     .cal-set .afterlocals img {
         float: right!important;
         bottom: 75px!important;
@@ -460,6 +461,7 @@ code {
         transform: translateX(0%);
     }
 */
+    
     .livefeedheads p {
         top: 28px!important;
         font-size: 16px!important;
@@ -548,6 +550,9 @@ code {
     .prof-set h5.date {
         font-size: 9px!important;
     }
+    .wht-cont h4 {
+        font-size: 16px!important;
+    }
     /*
         .frame {
         min-height: 220px;
@@ -575,7 +580,6 @@ code {
     .prof-set h4 {
         font-size: 8px!important;
     }
-
 }
 
 @media (min-width: 768px) and (max-width: 990px) {

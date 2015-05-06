@@ -378,9 +378,10 @@ code {
     .rg-tc {
         padding-top: 10px;
     }
+/*
     .afterlocal img {
         float: left !important;
-        left: 66%!important;
+        left: 88%!important;
         width: 80px;
         bottom: 66px !important;
         -webkit-transform: translateX(0%);
@@ -389,6 +390,7 @@ code {
         -o-transform: translateX(0%);
         transform: translateX(0%);
     }
+*/
     .li-soc {
         text-align: center;
     }
@@ -445,6 +447,7 @@ code {
         width: 120px;
         margin-right: 25px;
     }
+/*
     .cal-set .afterlocals img {
         float: right!important;
         bottom: 75px!important;
@@ -456,6 +459,7 @@ code {
         -o-transform: translateX(0%);
         transform: translateX(0%);
     }
+*/
     .livefeedheads p {
         top: 28px!important;
         font-size: 16px!important;
@@ -571,6 +575,7 @@ code {
     .prof-set h4 {
         font-size: 12px!important;
     }
+
 }
 
 @media (min-width: 768px) and (max-width: 990px) {

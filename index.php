@@ -675,7 +675,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            21th May
+                                            21st May
                                         </div>
                                     </div>
                                     <div class="col-xs-5">

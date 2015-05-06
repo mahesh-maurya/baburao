@@ -283,7 +283,7 @@ code {
     }
     .livefeedheads p {
         text-align: left!important;
-        padding-left: 5%!important;
+        padding-left: 20%!important;
     }
     .head-mid .mid-right {
         padding-bottom: 15px;
@@ -330,7 +330,7 @@ code {
         min-height: 220px;
     }
     .whit-box {
-        width: 100%!important;
+        width: 80%!important;
         padding: 20px!important;
         left: 50%!important;
     }
@@ -559,7 +559,7 @@ code {
         font-size: 8px!important;
     }
     .whit-box {
-        width: 100%;
+        width: 80%;
         padding: 20px;
         left: 50%;
     }

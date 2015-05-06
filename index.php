@@ -42,7 +42,6 @@
     <style type='text/css'>
         /*This will work for chrome */
         /*This will work for firefox*/
-        
         @-moz-document url-prefix() {
             .fot-txt {
                 padding: 56px 0px 30px;
@@ -58,7 +57,7 @@
 <body>
     <div id="fb-root"></div>
     <script>
-        (function (d, s, id) {
+        (function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
             js = d.createElement(s);
@@ -123,7 +122,9 @@
                                     <img class="obj-cl" src="bower_components/img/obj2.png">
                                     <br>
 -->
-                                    <img class="log-cl" src="bower_components/img/logo.png">
+                                    <a href="http://localbanya.com/" target="_blank">
+                                        <img class="log-cl" src="bower_components/img/logo.png">
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -135,11 +136,13 @@
         <div class="head-mid">
             <div class="container">
                 <div class="row">
-                    <a href="https://twitter.com/LocalBanya" target="_blank"><div class="col-md-12">
-                        <div class="mid-left">
-                            <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>
+                    <a href="https://twitter.com/LocalBanya" target="_blank">
+                        <div class="col-md-12">
+                            <div class="mid-left">
+                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>
+                            </div>
                         </div>
-                    </div></a>
+                    </a>
                     <!--
                     <div class="col-md-4">
                         <div class="mid-right">
@@ -190,27 +193,27 @@
                                 <p>15th May - 21st May</p>
                             </div>
                         </div>
-                        
-                            <div class="col-md-3 col-xs-6 cl3">
 
-                                 <div class="roll">
-                                    <p>visit me again</p>
-                                    <img src="bower_components/img/roll.png">
-                                     </div>
+                        <div class="col-md-3 col-xs-6 cl3">
+
+                            <div class="roll">
+                                <p>visit me again</p>
+                                <img src="bower_components/img/roll.png">
+                            </div>
 
 
-                                <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
-                                   <div class="cl1 cl2">
+                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
+                                <div class="cl1 cl2">
                                     <!--                                <img src="bower_components/img/discount.png" class="img-responsive">-->
                                     <img src="bower_components/img/buy1.png" class="img-responsive">
                                 </div>
-                                </a>
-                                <div class="cl4">
-                                    <p>22th May - 28th May</p>
-                                </div>
-
+                            </a>
+                            <div class="cl4">
+                                <p>22nd May - 28th May</p>
                             </div>
-                       
+
+                        </div>
+
                         <div class="col-md-3 col-xs-6 cl3">
                             <div class="roll">
                                 <p>visit me again</p>
@@ -272,7 +275,7 @@
                         <div class="tw-st">
                             <a class="twitter-timeline" href="https://twitter.com/LocalBanya" data-widget-id="594025626274648064">Tweets by @LocalBanya</a>
                             <script>
-                                ! function (d, s, id) {
+                                ! function(d, s, id) {
                                     var js, fjs = d.getElementsByTagName(s)[0],
                                         p = /^http:/.test(d.location) ? 'http' : 'https';
                                     if (!d.getElementById(id)) {
@@ -290,10 +293,11 @@
                     <div class="insta">
 
                         <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
-                        <div class="in-st">
-                            <iframe src="//instansive.com/widgets/006874267dbc8cea6039a4add44013928bff372a.html" id="instansive_006874267d" name="instansive_006874267d" scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+                        <div class="in-st" style="height: 365px;overflow-y: scroll;">
+                            <iframe src="//instansive.com/widgets/ba0ad9aad53001654f6fac3da0abca67b15d2329.html" id="instansive_ba0ad9aad5" name="instansive_ba0ad9aad5" scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
                         </div>
+                        
                     </div>
                 </div>
 
@@ -717,7 +721,7 @@
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
-                                            23th May
+                                            23rd May
                                         </div>
                                     </div>
                                     <div class="col-xs-5">
@@ -862,7 +866,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                     <div class="cal-mk">
+                                <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
                                             6th June
@@ -948,7 +952,7 @@
                                         <ul class="slides js_slides">
 
 
-<!--
+                                            <!--
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Dimpy Agarwal</h4>
@@ -964,12 +968,12 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
                                             </li>     
 -->
-                                                <li class="js_slide">
+                                            <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
-                                                    <p>Chocolates and more..</p>
-                                                    <p class="bodyofprof"> Chocoholic offers a wide range of products which are delicately made with by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
-</p>
+                                                    <p>Chocoholic</p>
+                                                    <p class="bodyofprof">Chocoholic offers a wide range of products which are delicately made with by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
+                                                    </p>
                                                     <img src="bower_components/img/rishika.png" class="img-responsive">
 
                                                     <p style="line-height: 20px;">Mumbai</p>
@@ -982,9 +986,8 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                     <h4 class="profname">Chef Amal Farooque</h4>
                                                     <p>Sugar over Dose</p>
                                                     <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverDose, originally from a financial background, Amal decided to follow her heart and turn her love for desserts and flavours into busness. A self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
-                                                    <br>
-The House of SugarOverDose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off! 
-</p>
+                                                        <br>The House of SugarOverDose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off!
+                                                    </p>
                                                     <img src="bower_components/img/amal.png" class="img-responsive">
 
 
@@ -996,7 +999,7 @@ The House of SugarOverDose is a firm believer of the celebration of MADNESS! The
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Nishita Kamdar</h4>
                                                     <p>Jar Designs</p>
-                                                    <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! We love to experiment with unique flavours and give our customers desserts they have never tried before!! </p>
+                                                    <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! We love to experiment with unique flavours and give our customers desserts they have never tried before!!</p>
                                                     <img src="bower_components/img/nitisha.png" class="img-responsive">
 
 
@@ -1008,9 +1011,10 @@ The House of SugarOverDose is a firm believer of the celebration of MADNESS! The
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Dimpy Agarwal</h4>
                                                     <p>Bake A Wish</p>
-                                                    <p class="bodyofprof">One solution to all your dessert cravings !<br>
-Each cake is designed just for you & to be perfect for your celebration. <br>We customize as per your wish.
-</p>
+                                                    <p class="bodyofprof">One solution to all your dessert cravings !
+                                                        <br>Each cake is designed just for you & to be perfect for your celebration.
+                                                        <br>We customize as per your wish.
+                                                    </p>
                                                     <img src="bower_components/img/dimpy.png" class="img-responsive">
 
 
@@ -1144,7 +1148,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         <script>
             'use strict';
 
-            document.addEventListener('DOMContentLoaded', function () {
+            document.addEventListener('DOMContentLoaded', function() {
                 var multiSlides = document.querySelector('.js_multislides');
 
                 lory(multiSlides, {
@@ -1154,8 +1158,8 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
             });
         </script>
         <script>
-            (function ($) {
-                $(window).load(function () {
+            (function($) {
+                $(window).load(function() {
 
                     $(".scroll").mCustomScrollbar({
                         autoHideScrollbar: false,
@@ -1167,15 +1171,15 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         </script>
 
         <script>
-            $(document).ready(function () {
+            $(document).ready(function() {
 
-                $(".prof-set").click(function () {
+                $(".prof-set").click(function() {
                     //                    console.log($pop);
                     $(".whit-box").show(500);
                     //        $(".round4").show();
                 });
 
-                $(".wt-img").click(function () {
+                $(".wt-img").click(function() {
                     $(".whit-box").hide(500);
                     //        $(".round4").show();
                 });
@@ -1183,7 +1187,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
 
                 $(".whit-box").hide();
-                $('a[href^="#"]').on('click', function (e) {
+                $('a[href^="#"]').on('click', function(e) {
                     e.preventDefault();
 
                     var target = this.hash;
@@ -1191,7 +1195,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
                     $('html, body').stop().animate({
                         'scrollTop': $target.offset().top
-                    }, 900, 'swing', function () {
+                    }, 900, 'swing', function() {
                         window.location.hash = target;
                     });
                 });
@@ -1199,7 +1203,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         </script>
         <script>
             $(document).ready(
-                function () {
+                function() {
                     if ($.browser.mozilla == true && $.browser.version < '1.9') {
                         $('.fot-txt').css('padding', '69px 0px 16px;');
                     }

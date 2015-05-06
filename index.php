@@ -248,10 +248,10 @@
             <p>Live Feeds</p>
         </div>
         <div class="row rw" style="margin-right:0px;">
-            <div class="col-md-4 afterlocal">
+            <div class="col-md-4 col-xs-4 afterlocal">
                 <img src="bower_components/img/banya.png" alt="" class="img-responsive">
             </div>
-            <div class="col-md-8 back-set"></div>
+            <div class="col-md-8 col-xs-8 back-set"></div>
         </div>
         <div class="container">
             <div class="row scocial-set">
@@ -310,8 +310,8 @@
                     <p>CONTEST CALENDER</p>
                 </div>
                 <div class="row rws" style="margin-right:0px;">
-                    <div class="col-md-8 back-set"></div>
-                    <div class="col-md-4 afterlocals">
+                    <div class="col-md-8 col-xs-8 back-set"></div>
+                    <div class="col-md-4 col-xs-4 afterlocals">
                         <img src="bower_components/img/banya2.png" alt="" class="img-responsive">
                     </div>
 
@@ -918,10 +918,10 @@
                         <p>Return gifts</p>
                     </div>
                     <div class="row rw" style="margin-right:0px;">
-                        <div class="col-md-4 afterlocal">
+                        <div class="col-md-4 col-xs-4 afterlocal">
                             <img src="bower_components/img/banya.png" alt="">
                         </div>
-                        <div class="col-md-8 back-set"></div>
+                        <div class="col-md-8 col-xs-8 back-set"></div>
                     </div>
                 </div>
                 <div class="container">
@@ -972,7 +972,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
-                                                    <p>Chocoholic</p>
+                                                    <p>Chocoholic- chocolates and more...</p>
                                                     <p class="bodyofprof">Chocoholic offers a wide range of products which are delicately made by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
                                                     </p>
                                                     <img src="bower_components/img/rishika.png" class="img-responsive">
@@ -985,9 +985,9 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Amal Farooque</h4>
-                                                    <p>Sugar over Dose</p>
-                                                    <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverDose, originally from a financial background, decided to follow her heart and turn her love for desserts and flavours into business. She's a self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
-                                                        <br>The House of SugarOverDose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off!
+                                                    <p>Sugar Overdose</p>
+                                                    <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverdose, originally from a financial background, decided to follow her heart and turn her love for desserts and flavours into business. She's a self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
+                                                        <br>The House of SugarOverdose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off!
                                                     </p>
                                                     <img src="bower_components/img/amal.png" class="img-responsive">
 

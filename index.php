@@ -972,7 +972,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
-                                                    <p style="line-height:100%;  margin-top: 28px;white-space: pre-wrap;">Chocoholic- chocolates and more...</p>
+                                                    <p style="line-height:100%;  margin-top: 15px;white-space: pre-wrap;">Chocoholic- chocolates and more...</p>
                                                     <p class="bodyofprof">Chocoholic offers a wide range of products which are delicately made by hand while using only the finest quality ingredients. They are apt for any time you have a desire for something sweet to bite your teeth into as well as when you wish to celebrate any occasion you choose.
                                                     </p>
                                                     <img src="bower_components/img/rishika.png" class="img-responsive">

@@ -258,7 +258,7 @@
                     <div class="fb">
                         <a href=" https://www.facebook.com/localbanya" target="_blank"><i class="fa fa-facebook"></i></a>
                         <div class="fb-st">
-                            <div class="fb-page" data-href="https://www.facebook.com/localbanya" data-width="100%" data-height="360" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
+                            <div class="fb-page" data-href="https://www.facebook.com/localbanya" data-width="200" data-height="360" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
                                 <div class="fb-xfbml-parse-ignore">
                                     <blockquote cite="https://www.facebook.com/localbanya"><a href="https://www.facebook.com/localbanya">Local Banya</a>
                                     </blockquote>

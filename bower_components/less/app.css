@@ -171,11 +171,13 @@ code {
     /**
      * Demo Page Styles
      */
-    
+    /*
     .examplecode,
     .frame {
         width: 580px;
     }
+*/
+    
     table {
         width: 580px;
         margin: 0 auto;
@@ -186,11 +188,13 @@ code {
     /**
      * Slider specific styles
      */
-    
+    /*
     .slider {
         width: 640px;
         margin: 0 auto 20px;
     }
+*/
+    
     .simple li {
         width: 580px;
     }
@@ -218,13 +222,6 @@ code {
      * Slider specific styles
      */
     
-    .slider {
-        width: 730px;
-        margin: 0 auto 20px;
-    }
-    .frame {
-        width: 660px;
-    }
     .simple li {
         width: 880px;
     }
@@ -295,15 +292,15 @@ code {
         padding-left: 15px;
     }
     .wht-cont {
-        padding: 0px 0px 20px 15px;
+        padding: 0px 0px 20px 15px!important;
         /* text-align: left; */
         
-        width: 100%;
-        margin: 0 auto;
+        width: 100% !important;
+        margin: 0 auto !important;
         text-align: center!important;
-        overflow-y: scroll;
-        overflow-x: hidden;
-        height: 135px;
+        overflow-y: scroll!important;
+        overflow-x: hidden!important;
+        height: 135px!important;
     }
     .frame {
         min-height: 220px;
@@ -443,7 +440,7 @@ code {
         font-size: 22px!important;
     }
     .prof-set p {
-        font-size: 10px;
+        font-size: 10px!important;
         margin: 5px 0 5px 0!important;
     }
     .sco-set {
@@ -466,15 +463,31 @@ code {
         width: 60%;
     }
     .prof-set h4 {
-        font-size: 8px!important;
+        font-size: 18px!important;
     }
     .foo-txt h6 {
         font-size: 12px!important;
         margin: 15px 0px !important;
         color: #4d72d2!important;
     }
+    .frame.js_frame {
+        width: 660px!important;
+    }
 }
-
+@media (max-width: 660px) {
+.prof-set h4 {
+  font-size: 8px!important;
+}
+    .frame.js_frame {
+  width: 280px!important;
+}
+    .prof-set p {
+  font-size: 8px!important;
+    }
+    .slider {
+  width: 85%;
+    }
+}
 @media (max-width: 420px) {
     .livefeedheads p {
         text-align: center;
@@ -514,6 +527,13 @@ code {
 @media (min-width: 768px) and (max-width: 990px) {
     .text-right {
         text-align: center !important;
+    }
+    .slider {
+        width: 730px;
+        margin: 0 auto 20px;
+    }
+    .frame.js_frame {
+        width: 595px!important;
     }
     .li-soc ul {
         padding: 0;
@@ -558,9 +578,11 @@ code {
         font-size: 22px !important;
         top: 16px !important;
     }
+/*
     iframe {
         width: 100%!important;
     }
+*/
     ._li div {
         width: 100%!important;
     }

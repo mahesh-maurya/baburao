@@ -1097,7 +1097,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                         </div>
                     </div>
                     <div class="col-md-3 col-xs-4 text-center">
-                        <a href="doc/T&CLocalbanyaFinal.pdf" target="_blank">
+                        <a href="doc/termsandcondition.pdf" target="_blank">
                             <h6>terms and conditions</h6>
                         </a>
                     </div>

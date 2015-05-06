@@ -985,7 +985,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Amal Farooque</h4>
-                                                    <p>Sugar Overdose</p>
+                                                    <p>SugarOverDose</p>
                                                     <p class="bodyofprof">Chef Amal Farooque Owner/Creator at SugarOverdose, originally from a financial background, decided to follow her heart and turn her love for desserts and flavours into business. She's a self taught Chef who is not afraid to give flavours a bold twist. Always creating and looking for newer flavour combination which involve use of best quality ingredients. Even though the kitchen has grown when it comes to staff, Amal still continues to works in her own kitchen and still dishes out most of the yum desserts you will eat.
                                                         <br>The House of SugarOverdose is a firm believer of the celebration of MADNESS! They do desserts for all occasions, including DIVORCE!' As they say - Let the woes n worries SOD off!
                                                     </p>

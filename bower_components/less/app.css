@@ -97,7 +97,8 @@ code {
     text-align: center;
     font-size: 15px;
     line-height: 30px;
-    background: #2E435A;
+    /*    background: #2E435A;*/
+    
     color: #fff;
 }
 
@@ -205,7 +206,7 @@ code {
     }
 }
 
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 990px) {
     /**
      * Demo Page Styles
      */
@@ -218,14 +219,23 @@ code {
      */
     
     .slider {
-        width: 936px;
+        width: 730px;
         margin: 0 auto 20px;
     }
     .frame {
-        width: 880px;
+        width: 660px;
     }
     .simple li {
         width: 880px;
+    }
+    .cal-set .afterlocals img {
+        bottom: 135px;
+        right: -14px;
+    }
+    .afterlocal img {
+        bottom: 44px;
+        left: 11px;
+        height: 115px;
     }
     .variablewidth li {
         width: 280px;
@@ -237,18 +247,17 @@ code {
         width: 205px;
         margin-right: 20px;
     }
-}
-
-.frame li {
-    position: relative;
-    display: inline-block;
-    font-family: 'Source Sans Pro', sans-serif;
-    height: 0px;
-    text-align: center;
-    font-size: 15px;
-    line-height: 100%;
-    background: none !important;
-    color: #fff;
+    .frame li {
+        position: relative;
+        display: inline-block;
+        font-family: 'Source Sans Pro', sans-serif;
+        height: 0px;
+        text-align: center;
+        font-size: 15px;
+        line-height: 100%;
+        background: none !important;
+        color: #fff;
+    }
 }
 
 @media (max-width: 767px) {
@@ -413,6 +422,7 @@ code {
         right: -15px !important;
         bottom: 95px!important;
         width: 100px;
+        height: 120px;
     }
     .livefeedheads p {
         top: 63px!important;
@@ -508,6 +518,10 @@ code {
     .li-soc ul {
         padding: 0;
     }
+    .rw {
+        ;
+        bottom: 36px;
+    }
     .log-cl {
         position: relative;
         top: 15px !important;
@@ -538,11 +552,42 @@ code {
     }
     .livefeedhead p {
         font-size: 22px !important;
-        top: 20px !important;
+        top: 16px !important;
     }
     .livefeedheads p {
         font-size: 22px !important;
-        top: 25px !important;
+        top: 16px !important;
+    }
+    iframe {
+        width: 100%!important;
+    }
+    ._li div {
+        width: 100%!important;
+    }
+    .fb_iframe_widget_fluid span {
+        width: 100%!important;
+    }
+    .rws {
+        bottom: 33px!important;
+    }
+    .li-soc {
+        text-align: center;
+    }
+    .cal-set {
+        background: #4FC1B0;
+    }
+    .li-soc ul {
+        display: -webkit-inline-box !important;
+    }
+    .in-right {
+        width: 40%!important;
+    }
+    .prof-set h4 {
+        font-size: 18px!important;
+    }
+    .prev,
+    .next {
+        margin-top: -10px!important;
     }
 }
 

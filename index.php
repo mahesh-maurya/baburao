@@ -71,7 +71,7 @@
         <div class="head-set">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-6">
                         <div class="lf-head">
                             <img src="bower_components/img/head.png" class="img-responsive">
                         </div>
@@ -102,7 +102,7 @@
                         </div>
 -->
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-6">
                         <div class="head-right">
                             <img src="bower_components/img/obj3.png" style="position: absolute;top:-15px;">
                             <div class="text-right">
@@ -166,7 +166,7 @@
             <div class="container">
                 <div class="row">
                     <div class="rw-head">
-                        <div class="col-md-3 col-xs-6">
+                        <div class="col-md-3 col-xs-6 col-sm-3">
 
                             <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
                                 <div class="cl1">
@@ -177,7 +177,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-3 col-xs-6 cl3">
+                        <div class="col-md-3 col-xs-6 cl3 col-sm-3">
                             <div class="roll">
                                 <p>visit me again</p>
                                 <img src="bower_components/img/roll.png">
@@ -194,7 +194,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-3 col-xs-6 cl3">
+                        <div class="col-md-3 col-xs-6 col-sm-3 cl3">
 
                             <div class="roll">
                                 <p>visit me again</p>
@@ -214,7 +214,7 @@
 
                         </div>
 
-                        <div class="col-md-3 col-xs-6 cl3">
+                        <div class="col-md-3 col-xs-6 col-sm-3 cl3">
                             <div class="roll">
                                 <p>visit me again</p>
                                 <img src="bower_components/img/roll.png">
@@ -254,7 +254,7 @@
         </div>
         <div class="container">
             <div class="row scocial-set">
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-4">
                     <div class="fb">
                         <a href=" https://www.facebook.com/localbanya" target="_blank"><i class="fa fa-facebook"></i></a>
                         <div class="fb-st">
@@ -267,7 +267,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-4">
 
                     <div class="twit">
                         <a href=" https://twitter.com/LocalBanya" target="_blank"> <i class="fa fa-twitter"></i>
@@ -289,7 +289,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-4">
                     <div class="insta">
 
                         <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>

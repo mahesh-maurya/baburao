@@ -241,7 +241,7 @@ code {
     .multipleelements li,
     .multislides li,
     .ease li {
-        width: 205px;
+        width: 145px;
         margin-right: 20px;
     }
     .frame li {
@@ -281,7 +281,7 @@ code {
         text-align: center!important;
     }
     .cal-cont {
-        bottom: 96px;
+        bottom: 96px!important;
     }
     .li-soc ul {
         padding: 0;
@@ -410,16 +410,19 @@ code {
         bottom: 36px;
     }
     .rws {
-        position: relative;
-        top: 15px;
-        color: #ffffff;
+        top: 88px;
+    }
+    .multipleelements li,
+    .multislides li,
+    .ease li {
+        width: 50px;
+        margin-right: 20px;
     }
     .cal-set .afterlocals img {
         float: right!important;
         right: -15px !important;
-        bottom: 95px!important;
+        bottom: 183px!important;
         width: 100px;
-        height: 120px;
     }
     .livefeedheads p {
         top: 63px!important;

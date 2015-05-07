@@ -663,3 +663,6 @@ a:focus {
 .frame.js_frame {
   width: 600px;
 }
+.frame li {
+  line-height: 15px;
+}

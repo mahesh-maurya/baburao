@@ -8,11 +8,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Local Banya | Landing Page</title>
-    <link rel="shortcut icon" href="">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet/less" href="bower_components/less/app.css">
+    <link rel="stylesheet" href="bower_components/less/app.css">
 
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
 
@@ -31,8 +30,8 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
     <!--    <link rel="stylesheet/less" href="bower_components/less/styles.less">-->
-    <link rel="stylesheet/less" href="bower_components/less/styles.css">
-    <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="bower_components/less/styles.css">
+<!--    <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>-->
 
     <!--[if IE]>
         <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -308,7 +307,7 @@
         <div class="section end">
             <div class="cal-set">
                 <div class="text-center livefeedheads">
-                    <p>EVENTS CALENDER</p>
+                    <p>EVENTS CALENDAR</p>
                 </div>
                 <div class="row rws" style="margin-right:0px;">
                     <div class="col-md-8 col-xs-8 back-set"></div>

@@ -1029,7 +1029,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Simran Talreja</h4>
                                                     <p>Sucre</p>
-                                                    <p class="bodyofprof">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At labore perspiciatis quasi cumque. Et rerum, recusandae labore officiis, impedit earum vel eligendi mollitia commodi voluptates dolorem, sunt quam deleniti alias.</p>
+                                                    <p class="bodyofprof">Sucré, owned & run by Simran Talreja is true expression with confection. A home-brand focused on offering it's clients tasteful quality products. </p>
                                                     <img src="bower_components/img/dimpy2.png" class="img-responsive">
 
 

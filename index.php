@@ -139,7 +139,8 @@
                     <a href="https://twitter.com/LocalBanya" target="_blank">
                         <div class="col-md-12">
                             <div class="mid-left">
-                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>
+                                <p>We will turn your every tweet with #ThreeMuch into a Kitkat for a child at Unity Foundation.</p>
+<!--                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>-->
 <!--                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>-->
                             </div>
                         </div>
@@ -307,7 +308,7 @@
         <div class="section end">
             <div class="cal-set">
                 <div class="text-center livefeedheads">
-                    <p>CONTEST CALENDER</p>
+                    <p>EVENTS CALENDER</p>
                 </div>
                 <div class="row rws" style="margin-right:0px;">
                     <div class="col-md-8 col-xs-8 back-set"></div>
@@ -328,11 +329,11 @@
                                 </div>
                             </div>
                             <div class="col-xs-5">
-                                <h3>contest</h3>
+                                <h3>What's happening</h3>
 
                             </div>
                             <div class="col-xs-4">
-                                <h3 class="text-center">Play Here :</h3>
+                                <h3 class="text-center">Play Where :</h3>
 
 
                             </div>

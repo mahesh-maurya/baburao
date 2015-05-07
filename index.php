@@ -333,7 +333,7 @@
 
                             </div>
                             <div class="col-xs-4">
-                                <h3 class="text-center">Play Where :</h3>
+                                <h3 class="text-center">Where</h3>
 
 
                             </div>

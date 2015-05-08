@@ -278,6 +278,11 @@ code {
 }
 
 @media (max-width: 767px) {
+	
+	.prev, .next {
+		top: 40%;
+	}
+
     .imgs-right {
         text-align: center;
     }

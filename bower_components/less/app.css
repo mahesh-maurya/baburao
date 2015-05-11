@@ -248,8 +248,14 @@ code {
     }
 }
 @media (max-width: 767px) {
+<<<<<<< HEAD
     .sco-set i {
         font-size: 12px;
+=======
+    .prev,
+    .next {
+        top: 40%;
+>>>>>>> origin/master
     }
     .imgs-right {
         text-align: center;
@@ -490,7 +496,7 @@ code {
         font-size: 12px!important;
     }
     .frame.js_frame {
-        width: 96%!important;
+        width: 78%!important;
     }
     /*
     .frame.js_frame {
@@ -538,8 +544,8 @@ code {
     .multipleelements li,
     .multislides li,
     .ease li {
-        width: 50px;
-        margin-right: 25px;
+        width: 68px;
+        margin-right: 10px;
     }
     .prof-set h4 {
         font-size: 8px!important;

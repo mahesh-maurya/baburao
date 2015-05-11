@@ -31,7 +31,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
     <!--    <link rel="stylesheet/less" href="bower_components/less/styles.less">-->
     <link rel="stylesheet" href="bower_components/less/styles.css">
-<!--    <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>-->
+    <!--    <script src="bower_components/less/dist/less.min.js" type="text/javascript"></script>-->
 
     <!--[if IE]>
         <script src="https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -41,6 +41,7 @@
     <style type='text/css'>
         /*This will work for chrome */
         /*This will work for firefox*/
+        
         @-moz-document url-prefix() {
             .fot-txt {
                 padding: 56px 0px 30px;
@@ -56,7 +57,7 @@
 <body>
     <div id="fb-root"></div>
     <script>
-        (function(d, s, id) {
+        (function (d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
             if (d.getElementById(id)) return;
             js = d.createElement(s);
@@ -139,8 +140,8 @@
                         <div class="col-md-12">
                             <div class="mid-left">
                                 <p>We will turn your every tweet with #ThreeMuch into a Kitkat for a child at Unity Foundation.</p>
-<!--                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>-->
-<!--                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>-->
+                                <!--                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>-->
+                                <!--                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>-->
                             </div>
                         </div>
                     </a>
@@ -276,7 +277,7 @@
                         <div class="tw-st">
                             <a class="twitter-timeline" href="https://twitter.com/LocalBanya" data-widget-id="594025626274648064">Tweets by @LocalBanya</a>
                             <script>
-                                ! function(d, s, id) {
+                                ! function (d, s, id) {
                                     var js, fjs = d.getElementsByTagName(s)[0],
                                         p = /^http:/.test(d.location) ? 'http' : 'https';
                                     if (!d.getElementById(id)) {
@@ -298,7 +299,7 @@
                             <iframe src="//instansive.com/widgets/ba0ad9aad53001654f6fac3da0abca67b15d2329.html" id="instansive_ba0ad9aad5" name="instansive_ba0ad9aad5" scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
                         </div>
-                        
+
                     </div>
                 </div>
 
@@ -340,6 +341,7 @@
                         <!--                        -->
                         <div class="row">
                             <div class="list-set scroll">
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -365,6 +367,8 @@
 
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -392,34 +396,10 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="cal-mk">
-                                    <div class="col-xs-3">
-                                        <div class="cal-left">
-                                            7th May
-                                        </div>
-                                    </div>
+-->
+                                
 
-                                    <div class="col-xs-5">
-
-                                        #ThreeMuch
-                                    </div>
-                                    <div class="col-xs-4 text-center">
-                                        <ul class="sco-set">
-
-                                            <li style="opacity:0;">
-                                                <a href="https://www.facebook.com/LocalBanya" target="_blank"><i class="fa fa-facebook"></i></a>
-                                            </li>
-
-                                            <li> <a href="https://twitter.com/LocalBanya" target="_blank"><i class="fa fa-twitter"></i></a>
-                                            </li>
-
-                                            <li style="opacity:0;"> <a href="https://instagram.com/localbanyadotcom" target="_blank"><i class="fa fa-instagram"></i></a>
-                                            </li>
-
-                                        </ul>
-                                    </div>
-                                </div>
-
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -441,6 +421,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -462,6 +444,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -487,6 +471,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -508,6 +494,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -529,6 +517,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -550,6 +540,7 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -892,14 +883,6 @@
 
                             </div>
                         </div>
-
-
-
-
-
-
-                        <!--                        -->
-
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="rg-tc">
@@ -969,7 +952,8 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
                                             </li>     
 -->
-                                            <li class="js_slide">
+<!--                                            <li class="js_slide">-->
+<!--
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
                                                     <p style="line-height:100%;  margin-top: 15px;white-space: pre-wrap;">Chocoholic- chocolates and more...</p>
@@ -980,8 +964,9 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                     <p style="line-height: 20px;">Mumbai</p>
                                                     <h5 class="date">  9th May, 2015  </h5>
                                                 </div>
+-->
 
-                                            </li>
+<!--                                            </li>-->
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Amal Farooque</h4>
@@ -1027,7 +1012,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Simran Talreja</h4>
-                                                    <p>Sucre</p>
+                                                    <p>Sucr&eacute;</p>
                                                     <p class="bodyofprof">Sucré, owned & run by Simran Talreja is true expression with confection. A home-brand focused on offering it's clients tasteful quality products. </p>
                                                     <img src="bower_components/img/dimpy2.png" class="img-responsive">
 
@@ -1149,7 +1134,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         <script>
             'use strict';
 
-            document.addEventListener('DOMContentLoaded', function() {
+            document.addEventListener('DOMContentLoaded', function () {
                 var multiSlides = document.querySelector('.js_multislides');
 
                 lory(multiSlides, {
@@ -1159,8 +1144,8 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
             });
         </script>
         <script>
-            (function($) {
-                $(window).load(function() {
+            (function ($) {
+                $(window).load(function () {
 
                     $(".scroll").mCustomScrollbar({
                         autoHideScrollbar: false,
@@ -1172,15 +1157,15 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         </script>
 
         <script>
-            $(document).ready(function() {
+            $(document).ready(function () {
 
-                $(".prof-set").click(function() {
+                $(".prof-set").click(function () {
                     //                    console.log($pop);
                     $(".whit-box").show(500);
                     //        $(".round4").show();
                 });
 
-                $(".wt-img").click(function() {
+                $(".wt-img").click(function () {
                     $(".whit-box").hide(500);
                     //        $(".round4").show();
                 });
@@ -1188,7 +1173,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
 
                 $(".whit-box").hide();
-                $('a[href^="#"]').on('click', function(e) {
+                $('a[href^="#"]').on('click', function (e) {
                     e.preventDefault();
 
                     var target = this.hash;
@@ -1196,7 +1181,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
                     $('html, body').stop().animate({
                         'scrollTop': $target.offset().top
-                    }, 900, 'swing', function() {
+                    }, 900, 'swing', function () {
                         window.location.hash = target;
                     });
                 });
@@ -1204,7 +1189,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
         </script>
         <script>
             $(document).ready(
-                function() {
+                function () {
                     if ($.browser.mozilla == true && $.browser.version < '1.9') {
                         $('.fot-txt').css('padding', '69px 0px 16px;');
                     }

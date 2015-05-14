@@ -428,7 +428,6 @@ a:focus {
 .prof-set h4 {
   font-family: tabitha;
   font-size: 18px;
-  line-height: 0.8;
   color: #4d72d2;
 }
 .prof-set img {
@@ -632,6 +631,11 @@ a:focus {
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
+}
+.cl5 p {
+  font-family: tabitha;
+  font-size: 17px;
+  padding-top: 12px;
 }
 .thn {
   text-align: right;

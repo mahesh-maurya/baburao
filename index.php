@@ -168,17 +168,6 @@
             <div class="container">
                 <div class="row">
                     <div class="rw-head">
-                        <div class="col-md-3 col-xs-6 col-sm-3">
-
-                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
-                                <div class="cl1">
-
-                                    <img src="bower_components/img/buy.png" class="img-responsive">
-
-                                    <p>9th May - 14th May</p>
-                                </div>
-                            </a>
-                        </div>
                         <div class="col-md-3 col-xs-6 cl3 col-sm-3">
                             <div class="roll">
                                 <p>visit me again</p>
@@ -186,14 +175,30 @@
                             </div>
                             <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
                                 <div class="cl1 cl2">
-                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
-                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
-                                    <img src="bower_components/img/coupan1.png" class="img-responsive">
+                                    <img src="bower_components/img/buy1.png" class="img-responsive">
                                 </div>
                             </a>
                             <div class="cl4">
-                                <p>15th May - 21st May</p>
+                                <p>9th May - 14th May</p>
                             </div>
+                        </div>
+                        <div class="col-md-3 col-xs-6 col-sm-3">
+                            <!--
+                                <div class="roll">
+                                    <p>visit me again</p>
+                                    <img src="bower_components/img/roll.png">
+                                </div>
+-->
+                            <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
+                                <div class="cl1">
+                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                    <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
+                                    <img src="bower_components/img/coupan.png" class="img-responsive">
+                                </div>
+                                <div class="cl5">
+                                    <p>15th May - 21st May</p>
+                                </div>
+                            </a>
                         </div>
 
                         <div class="col-md-3 col-xs-6 col-sm-3 cl3">
@@ -341,7 +346,7 @@
                         <!--                        -->
                         <div class="row">
                             <div class="list-set scroll">
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -368,7 +373,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -397,9 +402,9 @@
                                     </div>
                                 </div>
 -->
-                                
 
-<!--
+
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -422,7 +427,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -445,7 +450,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -472,7 +477,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -495,7 +500,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -518,7 +523,7 @@
                                     </div>
                                 </div>
 -->
-<!--
+                                <!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -541,6 +546,7 @@
                                     </div>
                                 </div>
 -->
+<!--
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -562,6 +568,8 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
+<!--
 
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
@@ -584,6 +592,7 @@
                                         </ul>
                                     </div>
                                 </div>
+-->
                                 <div class="cal-mk">
                                     <div class="col-xs-3">
                                         <div class="cal-left">
@@ -952,8 +961,8 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
 
                                             </li>     
 -->
-<!--                                            <li class="js_slide">-->
-<!--
+                                            <!--                                            <li class="js_slide">-->
+                                            <!--
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Rishika Bhatia</h4>
                                                     <p style="line-height:100%;  margin-top: 15px;white-space: pre-wrap;">Chocoholic- chocolates and more...</p>
@@ -966,7 +975,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                 </div>
 -->
 
-<!--                                            </li>-->
+                                            <!--                                            </li>-->
                                             <li class="js_slide">
                                                 <div class="prof-set">
                                                     <h4 class="profname">Chef Amal Farooque</h4>
@@ -995,7 +1004,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                             </li>
                                             <li class="js_slide">
                                                 <div class="prof-set">
-                                                    <h4 class="profname">Chef Dimpy Agarwal</h4>
+                                                    <h4 class="profname">Chef Dimpy Agarwal & <br> Dimple Parekh</h4>
                                                     <p>Bake A Wish</p>
                                                     <p class="bodyofprof">One solution to all your dessert cravings !
                                                         <br>Each cake is designed just for you & to be perfect for your celebration.

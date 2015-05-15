@@ -193,7 +193,7 @@
                                 <div class="cl1">
                                     <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
                                     <!--                                <img src="bower_components/img/coupan.png" class="img-responsive">-->
-                                    <img src="bower_components/img/coupan.png" class="img-responsive">
+                                    <img src="bower_components/img/buy.png" class="img-responsive">
                                 </div>
                                 <div class="cl5">
                                     <p>15th May - 21st May</p>
@@ -229,7 +229,7 @@
                             <a href="http://www.localbanya.com/featured?isCampaign=true" target="_blank">
                                 <div class="cl1 cl2">
                                     <!--                                <img src="bower_components/img/shop.png" class="img-responsive">-->
-                                    <img src="bower_components/img/coupan1.png" class="img-responsive">
+                                    <img src="bower_components/img/buy1.png" class="img-responsive">
                                 </div>
                             </a>
                             <div class="cl4">

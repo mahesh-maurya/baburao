@@ -139,8 +139,8 @@
                     <a href="https://twitter.com/LocalBanya" target="_blank">
                         <div class="col-md-12">
                             <div class="mid-left">
-                                <p>We will turn your every tweet with #ThreeMuch into a Kitkat for a child at Unity Foundation.</p>
-                                <!--                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>-->
+                                <p>We will turn your every tweet with #ThreeMuch into a chocolate for a child at Unity Foundation.</p>
+<!--                                                                <p>We equate the no. of times you tweet with #ThreeMuch, to the no. of chocolates for an NGO.</p>-->
                                 <!--                                <p>The times you tweet using #ThreeMuch, we equate them into number of chocolates for an NGO.</p>-->
                             </div>
                         </div>

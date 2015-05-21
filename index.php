@@ -995,7 +995,7 @@ Each cake is designed just for you & to be perfect for your celebration. <br>We 
                                                     <h4 class="profname">Chef Nishita Kamdar</h4>
                                                     <p>Jar Designs</p>
                                                     <p class="bodyofprof">JAR Designs, a home bakery in Mumbai, baking some of the freshest and most delicious eggless cakes and desserts in a Jar! They love to experiment with unique flavours and give their customers desserts they have never tried before!!</p>
-                                                    <img src="bower_components/img/nitisha.png" class="img-responsive">
+                                                    <img src="bower_components/img/nishita.png" class="img-responsive">
 
 
                                                     <p style="line-height: 20px;">Mumbai</p>
